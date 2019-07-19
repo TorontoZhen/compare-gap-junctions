@@ -66,7 +66,7 @@ def get_gap_junctions_from_catmaid():
     for synapse_id, partners in connector_response['partners'].items():
 
        if len(partners) != 2:
-           print('Warning: something is wrong with synapse'), synapse_id
+           print 'Warning: something is wrong with synapse', synapse_id
            continue
 
 
@@ -198,16 +198,16 @@ for gj in durbin_gap_junctions:
     else:
         gj_in_durbin_dataset_only.append(gj)
 
-print(len(christine_gap_junctions))
-print(len(durbin_gap_junctions))
-print(christine_gap_junctions)
-print(durbin_gap_junctions)
-print('INTERSECTION #################################################')
-print(len(christine_gap_junctions & durbin_gap_junctions))
-print('UNIQUE TO DURBIN #################################################')
-print(len(durbin_gap_junctions - christine_gap_junctions))
-print('UNIQUE TO CHRISTINE ##############################################')
-print(len(christine_gap_junctions - durbin_gap_junctions))
+print len(christine_gap_junctions)
+print len(durbin_gap_junctions)
+print christine_gap_junctions
+print durbin_gap_junctions
+print 'INTERSECTION #################################################'
+print len(christine_gap_junctions & durbin_gap_junctions)
+print 'UNIQUE TO DURBIN #################################################'
+print len(durbin_gap_junctions - christine_gap_junctions)
+print 'UNIQUE TO CHRISTINE ##############################################'
+print len(christine_gap_junctions - durbin_gap_junctions)
 #print len(gj_in_both)
 #print len(gj_in_christine_dataset_only)
 #print len(gj_in_durbin_dataset_only)

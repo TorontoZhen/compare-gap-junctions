@@ -9,6 +9,3 @@ pylint = "*"
 [packages]
 requests = "*"
 networkx = "*"
-
-[requires]
-python_version = "3.7"
