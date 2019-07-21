@@ -63,6 +63,8 @@ def get_gap_junctions_from_catmaid():
 
     synapses = set()
 
+    garbage_data = set(['unknown1', 'fragment'])
+
     for synapse_id, partners in connector_response['partners'].items():
 
        if len(partners) != 2:
@@ -75,6 +77,9 @@ def get_gap_junctions_from_catmaid():
 
        neuron1_name = skid_to_name[neuron1_id].replace('[', '').replace(']', '')
        neuron2_name = skid_to_name[neuron2_id].replace('[', '').replace(']', '')
+
+       if neuron1_name in garbage_data or neuron2_name in garbage_data:
+           continue
 
        n_classes = [nclass(neuron1_name), nclass(neuron2_name)]
        n_classes.sort()
