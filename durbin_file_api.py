@@ -12,6 +12,7 @@ def get_gap_junctions_from_durbin():
 
 
   gap_junctions = []
+  gap_junctions_set = set()
   with open(durbin_data_path) as f:
       for l in f:
           pre, post, typ, dataset, synapses = l.strip().split('\t')
@@ -69,8 +70,7 @@ def get_gap_junctions_from_durbin():
             gj['class_set'] = (n_classes[0], n_classes[1])
             gj['link'] = 'N/A'
 
+            gap_junctions_set.add(gj['class_set'])
             gap_junctions.append(gj)
 
-  return gap_junctions
-
-pp.pprint(get_gap_junctions_from_durbin())
+  return gap_junctions, gap_junctions_set

@@ -74,6 +74,7 @@ def get_gap_junctions_from_catmaid():
     }
 
   gap_junctions = []
+  gap_junctions_set = set()
   for gj_id, partners in connector_response['partners'].items():
     neuron1_id = partners[0][2]
     neuron2_id = partners[1][2]
@@ -104,6 +105,7 @@ def get_gap_junctions_from_catmaid():
     gj['class_set'] = (n_classes[0], n_classes[1])
     gj['link'] = get_catmaid_link(coordinates, project_id, stack_id)
 
+    gap_junctions_set.add(gj['class_set'])
     gap_junctions.append(gj)
 
-  return gap_junctions
+  return gap_junctions, gap_junctions_set
