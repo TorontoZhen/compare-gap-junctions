@@ -2,3 +2,5 @@
 *.pyc
 settings.json
 config.py
+
+old/
