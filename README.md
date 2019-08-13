@@ -1,6 +1,6 @@
 # Compare Gap Junctions
 
-A python script that compare gap junctions from a catmaid project to the Durbin datasets
+A python script to compare gap junctions from a catmaid project to the Durbin datasets
 
 ## Requirements
 
