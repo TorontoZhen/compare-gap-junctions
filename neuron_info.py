@@ -16,9 +16,9 @@ neuron_list = (
 )
 
 new_nr_neurons = {
-    'SEM_L1_3': [], 
-    'TEM_L1_5': [], 
-    'SEM_L1_4': [], 
+    'SEM_L1_3': [],
+    'TEM_L1_5': [],
+    'SEM_L1_4': [],
     'SEM_L1_2': ['ALNL', 'ALNR', 'AQR', 'RMHL', 'RMHR', 'SDQR'],
     'SEM_L2_2': ['ALNL', 'ALNR', 'AQR', 'RMHL', 'RMHR', 'SDQR', 'AVFL', 'AVFR', 'AVM', 'SDQL'],
     'TEM_L3': ['ALNL', 'ALNR', 'AQR', 'RMHL', 'RMHR', 'SDQR', 'AVFL', 'AVFR', 'AVM', 'SDQL', 'RMFL', 'RMFR'],
@@ -26,62 +26,89 @@ new_nr_neurons = {
     'SEM_adult': ['ALNL', 'ALNR', 'AQR', 'RMHL', 'RMHR', 'SDQR', 'AVFL', 'AVFR', 'AVM', 'SDQL', 'RMFL', 'RMFR', 'HSNL', 'HSNR', 'PLNL', 'PLNR', 'PVNL', 'PVNR'],
 }
 
+def is_neuron(neuron_name):
+    _, n_is_neuron = nclass(neuron_name)
+
+    return n_is_neuron
+
+def is_neuron_class(neuron_class):
+    _, n_is_neuron_class = class_members(neuron_class)
+
+    return n_is_neuron_class
+
 
 def nclass(n):
+
+    n_is_neuron = True
+
     if n in (
-        'AVG', 'DVC', 'PVR', 'PVT', 'RIH', 'RIR', 'DVA', 'AQR', 'AVM', 'PQR', 
-        'PVM', 'DVB', 'PDA', 'PDB', 'ALA', 'AVL', 'RID', 'RIS', 
+        'AVG', 'DVC', 'PVR', 'PVT', 'RIH', 'RIR', 'DVA', 'AQR', 'AVM', 'PQR',
+        'PVM', 'DVB', 'PDA', 'PDB', 'ALA', 'AVL', 'RID', 'RIS',
         'I3', 'I4', 'I5', 'I5', 'M1', 'M4', 'M5', 'MI'
-    ): 
-        return n
+    ):
+        return n, n_is_neuron
+
     if len(n) == 4 and n[-1] in 'LR' and n[:3] in (
         'ADA', 'ADE', 'ADF', 'ADL', 'AFD', 'AIA', 'AIB', 'AIM', 'AIN', 'AIY',
-        'AIZ', 'ALM', 'ALN', 'ASE', 'ASG', 'ASH', 'ASI', 'ASJ', 'ASK', 'AUA', 
+        'AIZ', 'ALM', 'ALN', 'ASE', 'ASG', 'ASH', 'ASI', 'ASJ', 'ASK', 'AUA',
         'AVA', 'AVB', 'AVD', 'AVE', 'AVF', 'AVH', 'AVJ', 'AVK', 'AWA', 'AWB',
         'AWC', 'BAG', 'BDU', 'CAN', 'FLP', 'GLR', 'HSN', 'IL1', 'IL2', 'LUA',
-        'OLL', 'PDE', 'PHA', 'PHB', 'PHC', 'PLM', 'PLN', 'PVC', 'PVD', 'PVN', 
-        'PVP', 'PVQ', 'PVW', 'RIA', 'RIB', 'RIC', 'RIF', 'RIG', 'RIM', 'RIP', 
+        'OLL', 'PDE', 'PHA', 'PHB', 'PHC', 'PLM', 'PLN', 'PVC', 'PVD', 'PVN',
+        'PVP', 'PVQ', 'PVW', 'RIA', 'RIB', 'RIC', 'RIF', 'RIG', 'RIM', 'RIP',
         'RIV', 'RMD', 'RMF', 'RMG', 'RMH', 'SDQ', 'URB', 'URX'
     ):
-        return n[:3]
+        return n[:3], n_is_neuron
+
     if len(n) == 5 and n[-2:] in ('DL', 'DR', 'VL', 'VR') and n[:3] in (
         'CEP', 'GLR', 'IL1', 'IL2', 'OLQ', 'RMD', 'SAA', 'SIA', 'SIB', 'SMB',
         'SMD', 'URA', 'URY'
     ):
-        return n[:3]
+        return n[:3], n_is_neuron
+
+
     if len(n) == 8 and re.match('BWM-[DV][LR]0[0-8]', n):
-        return 'BWM' + n[-2:]
+        return 'BWM' + n[-2:], n_is_neuron
+
     if n in (
         'RMED', 'RMEL', 'RMER', 'RMEV', 'SABD', 'SABVL', 'SABVR',
     ):
-        return n[:3]
+        return n[:3], n_is_neuron
+
     if n in (
         'CEPshDL', 'CEPshDR', 'CEPshVL', 'CEPshVR'
     ):
-        return n[:5]
+        return n[:5], n_is_neuron
+
     if n[:2] in ('AS', 'VB', 'VA', 'VD') and n[2:] in map(str, range(12)):
-        return n[:2] + 'n'
+        return n[:2] + 'n', n_is_neuron
+
     if n in ('VA12', 'VD12', 'VD13'):
-        return n[:2] + 'n'
+        return n[:2] + 'n', n_is_neuron
+
     if re.match('^(DA[1-9])|(DB[1-7])|(DD[1-6])|(VC[1-6])$', n):
-        return n[:2] + 'n'
-    return n
+        return n[:2] + 'n', n_is_neuron
+
+    n_is_neuron = False
+    return n, n_is_neuron
 
 
 def class_members(cls):
+    n_is_neuron_class = True
+
     if cls in (
-        'AVG', 'DVC', 'PVR', 'PVT', 'RIH', 'RIR', 'DVA', 'AQR', 'AVM', 'PQR', 
-        'PVM', 'DVB', 'PDA', 'PDB', 'ALA', 'AVL', 'RID', 'RIS', 
+        'AVG', 'DVC', 'PVR', 'PVT', 'RIH', 'RIR', 'DVA', 'AQR', 'AVM', 'PQR',
+        'PVM', 'DVB', 'PDA', 'PDB', 'ALA', 'AVL', 'RID', 'RIS',
         'I3', 'I4', 'I5', 'I5', 'M1', 'M4', 'M5', 'MI', 'SABD'
     ):
-        return [cls]
+        return [cls], n_is_neuron_class
+
     if cls in (
-        'ADA', 'AIA', 'AIB', 'AIN', 'AIY', 'AIZ', 'BDU', 'LUA', 'PVN', 'PVP', 
-        'PVW', 'RIA', 'RIB', 'RIF', 'RIG', 'RIM', 'RIP', 'AVA', 'AVD', 'AVE', 
+        'ADA', 'AIA', 'AIB', 'AIN', 'AIY', 'AIZ', 'BDU', 'LUA', 'PVN', 'PVP',
+        'PVW', 'RIA', 'RIB', 'RIF', 'RIG', 'RIM', 'RIP', 'AVA', 'AVD', 'AVE',
         'AVB', 'PVC', 'ADL', 'AFD', 'ASE', 'ASG', 'ASH', 'ASI', 'ASJ', 'ASK',
         'AUA', 'AWA', 'AWB', 'AWC', 'BAG', 'FLP', 'OLL', 'URB', 'RMG', 'PDE',
-        'ALM', 'ALN', 'PHA', 'PHB', 'PHC', 'PLM', 'PLN', 'PVD', 'SDQ', 'RIV', 
-        'RMF', 'RMH', 'AIM', 'AVF', 'AVH', 'AVJ', 'AVK', 'PVQ', 'RIC', 'ADE', 
+        'ALM', 'ALN', 'PHA', 'PHB', 'PHC', 'PLM', 'PLN', 'PVD', 'SDQ', 'RIV',
+        'RMF', 'RMH', 'AIM', 'AVF', 'AVH', 'AVJ', 'AVK', 'PVQ', 'RIC', 'ADE',
         'ADF', 'HSN', 'URX',
         'I1', 'I2', 'M2', 'M3', 'MC', 'NSM',
         'CAN',
@@ -90,51 +117,64 @@ def class_members(cls):
         'IL1D', 'IL1V', 'IL2D', 'IL2V', 'RMDD', 'RMDV', 'GLRD', 'GLRV', 'CEPshD',
         'CEPshV', 'SABV'
     ):
-        return [cls + n for n in ('L', 'R')]
+        return [cls + n for n in ('L', 'R')], n_is_neuron_class
+
     if cls in (
         'SAA', 'URY', 'SMB', 'SMD', 'URA', 'SIB', 'SIA', 'CEP', 'OLQ', 'CEPsh'
     ):
-        return [cls + n for n in ('DL', 'DR', 'VL', 'VR')]
+        return [cls + n for n in ('DL', 'DR', 'VL', 'VR')], n_is_neuron_class
+
     if cls in ('IL1', 'IL2', 'RMD', 'GLR'):
-        return [cls + n for n in ('DL', 'DR', 'L', 'R', 'VL', 'VR')]
+        return [cls + n for n in ('DL', 'DR', 'L', 'R', 'VL', 'VR')], n_is_neuron_class
+
     if cls in ('GLRL/R', 'RMDL/R', 'RMEL/R', 'IL1L/R', 'RMED/V', 'IL2L/R'):
-        return [cls[:3] + cls[3], cls[:3] + cls[5]]
-        
+        return [cls[:3] + cls[3], cls[:3] + cls[5]], n_is_neuron_class
+
     if cls == 'SAB':
-        return ['SABD', 'SABVL', 'SABVR']
+        return ['SABD', 'SABVL', 'SABVR'], n_is_neuron_class
+
     if cls == 'RME':
-        return ['RMED', 'RMEL', 'RMER', 'RMEV']
+        return ['RMED', 'RMEL', 'RMER', 'RMEV'], n_is_neuron_class
+
     if cls == 'DAn':
-        return ['DA' + str(i+1) for i in range(9)]
+        return ['DA' + str(i+1) for i in range(9)], n_is_neuron_class
+
     if cls == 'DBn':
-        return ['DB' + str(i+1) for i in range(7)]
+        return ['DB' + str(i+1) for i in range(7)], n_is_neuron_class
+
     if cls in ('DDn', 'VCn'):
-        return [cls[:2] + str(i+1) for i in range(6)]
+        return [cls[:2] + str(i+1) for i in range(6)], n_is_neuron_class
+
     if cls == 'VAn':
-        return ['VA' + str(i+1) for i in range(12)]
+        return ['VA' + str(i+1) for i in range(12)], n_is_neuron_class
+
     if cls in ('VBn', 'ASn'):
-        return [cls[:2] + str(i+1) for i in range(11)]
+        return [cls[:2] + str(i+1) for i in range(11)], n_is_neuron_class
+
     if cls == 'VDn':
-        return ['VD' + str(i+1) for i in range(13)]
-    
+        return ['VD' + str(i+1) for i in range(13)], n_is_neuron_class
+
     if cls == 'muscle':
         return ['muscle'] + \
                ['BWM-DL' + str(i+1).zfill(2) for i in range(24)] + \
                ['BWM-DR' + str(i+1).zfill(2) for i in range(24)] + \
                ['BWM-VL' + str(i+1).zfill(2) for i in range(23)] + \
-               ['BWM-VR' + str(i+1).zfill(2) for i in range(24)]
-    
+               ['BWM-VR' + str(i+1).zfill(2) for i in range(24)], n_is_neuron_class
+
     if cls in (
         'BWM01', 'BWM02', 'BWM03', 'BWM04', 'BWM05', 'BWM06', 'BWM07', 'BWM08',
     ):
-        return ['BWM-' + n + cls[-2:] for n in ('DL', 'DR', 'VL', 'VR')]
+        return ['BWM-' + n + cls[-2:] for n in ('DL', 'DR', 'VL', 'VR')], n_is_neuron_class
+
     if cls in (
         'BWM01D', 'BWM02D', 'BWM03D', 'BWM04D', 'BWM05D', 'BWM06D', 'BWM07D', 'BWM08D',
         'BWM01V', 'BWM02V', 'BWM03V', 'BWM04V', 'BWM05V', 'BWM06V', 'BWM07V', 'BWM08V',
     ):
-        return ['BWM-' + cls[-1] + n + cls[-3:-1] for n in ('L', 'R')]
-    
-    return [cls]
+        return ['BWM-' + cls[-1] + n + cls[-3:-1] for n in ('L', 'R')], n_is_neuron_class
+
+
+    n_is_neuron_class = False
+    return [cls], n_is_neuron_class
 
 
 def ntype(n):
@@ -150,7 +190,7 @@ def ntype(n):
     ):
         return 'sensory'
     if n in (
-        'ADA', 'AIA', 'AIB', 'AIN', 'AIY', 'AIZ', 'AVA', 'AVB', 'AVD', 'AVE', 
+        'ADA', 'AIA', 'AIB', 'AIN', 'AIY', 'AIZ', 'AVA', 'AVB', 'AVD', 'AVE',
         'AVG', 'BDU', 'DVC', 'LUA', 'PVC', 'PVN', 'PVP', 'PVR', 'PVT', 'PVW',
         'RIA', 'RIB', 'RIF', 'RIG', 'RIH', 'RIM', 'RIP', 'RIR'
     ):
@@ -159,7 +199,7 @@ def ntype(n):
         'ASn', 'DAn', 'DBn', 'DDn', 'DVB', 'IL1', 'PDA', 'PDB', 'RIV', 'RMD',
         'RME', 'RMF', 'RMH', 'SAB', 'SIA', 'SIB', 'SMB', 'SMD', 'URA', 'VAn',
         'VBn', 'VCn', 'VDn'
-    ): 
+    ):
         return 'motor'
     if n in (
         'ADE', 'AIM', 'ALA', 'AVF', 'AVH', 'AVJ', 'AVK', 'AVL', 'CEP', 'HSN',
@@ -172,7 +212,7 @@ def ntype(n):
         return 'muscle'
     if n in ('CAN', 'CEPsh', 'GLR', 'excgl'):
         return 'other'
-    
+
 
 def is_postemb(n):
     n = nclass(n)
