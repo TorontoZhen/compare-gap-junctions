@@ -20,18 +20,58 @@ cgj, cgj_set = get_gap_junctions_from_catmaid()
 # get the gap junctions and set of gap junctions from the durbin dataset
 dgj, dgj_set = get_gap_junctions_from_durbin()
 
-pp.pprint(cgj_set)
-pp.pprint(dgj_set)
 
-print 'INTERSECTION #################################################'
+# compute intersection, difference, of gap junctions for christines project and durbins dataset
 gj_intersection = cgj_set & dgj_set
-print gj_intersection
-print len(gj_intersection)
-print 'UNIQUE TO DURBIN #################################################'
 durbin_unique = dgj_set - cgj_set
-print durbin_unique
-print len(durbin_unique)
-print 'UNIQUE TO CHRISTINE ##############################################'
 christine_unique = cgj_set - dgj_set
-print christine_unique
-print len(christine_unique)
+
+pp.pprint(sorted(cgj, key= lambda o: o['class_set'])[:20])
+
+# write the results to csv file
+SEM_UNIQUE_OUTPUT_FILE = open('./output/sem_unique.csv', 'w+')
+DURBIN_UNIQUE_OUTPUT_FILE = open('./output/durbin_unique.csv', 'w+')
+INTERSECTION_OUTPUT_FILE = open('./output/intersection.csv', 'w+')
+
+
+for gj_info in sorted(cgj, key= lambda o: o['class_set']):
+    class_set = gj_info['class_set']
+
+    pre = gj_info['n1_name']
+    post = gj_info['n2_name']
+    link = gj_info['link']
+    if class_set in gj_intersection:
+        INTERSECTION_OUTPUT_FILE.write("{},{},{}\n".format(pre, post, link))
+    elif class_set in christine_unique:
+        SEM_UNIQUE_OUTPUT_FILE.write("{},{},{}\n".format(pre, post, link))
+
+
+for gj_tuple in sorted(durbin_unique, key=lambda tup: tup[0] + tup[1]):
+    for gj_info in sorted(dgj, key = lambda o: o['class_set'][0]):
+        if gj_info['class_set'] == gj_tuple:
+            pre = gj_info['n1_name']
+            post = gj_info['n2_name']
+            link = gj_info['link']
+            DURBIN_UNIQUE_OUTPUT_FILE.write("{},{},{}\n".format(pre, post, link))
+
+
+
+# for gj_tuple in sorted(christine_unique, key=lambda tup: tup[0] + tup[1]):
+#     for gj_info in sorted(cgj, key= lambda o: o['class_set'][0]):
+#         if gj_info['class_set'] == gj_tuple:
+#             pre = gj_info['n1_name']
+#             post = gj_info['n2_name']
+#             link = gj_info['link']
+#             SEM_UNIQUE_OUTPUT_FILE.write("{},{},{}\n".format(pre, post, link))
+
+# for gj_tuple in sorted(gj_intersection, key=lambda tup: tup[0] + tup[1]):
+    # for gj_info in sorted(cgj, key= lambda o: o['class_set'][0]):
+    #     if gj_info['class_set'] == gj_tuple:
+    #         pre = gj_info['n1_name']
+    #         post = gj_info['n2_name']
+    #         link = gj_info['link']
+    #         INTERSECTION_OUTPUT_FILE.write("{},{},{}\n".format(pre, post, link))
+
+DURBIN_UNIQUE_OUTPUT_FILE.close()
+SEM_UNIQUE_OUTPUT_FILE.close()
+INTERSECTION_OUTPUT_FILE.close()
