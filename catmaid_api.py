@@ -1,4 +1,3 @@
-from config import token, project_id, stack_id
 from requests.auth import HTTPBasicAuth
 import requests
 
@@ -52,7 +51,7 @@ def get_skeleton_id_to_neuron_name_map(token, project_id):
   return skeleton_id_to_neuron_name_map
 
 
-def get_gap_junctions_from_catmaid():
+def get_gap_junctions_from_catmaid(token, project_id, stack_id):
   skid_to_name = get_skeleton_id_to_neuron_name_map(token, project_id)
 
   connector_response = requests.post(
