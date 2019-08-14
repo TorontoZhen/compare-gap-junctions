@@ -7,7 +7,7 @@ Created on Tue Jul  9 15:24:02 2019
 """
 
 # Get the gap junctions from project 129 (Christine) and compare them to the White datasets
-from config import token, project_id, stack_id
+from config import token, project_id, stack_id, jsh_project_id, jsh_stack_id, n2u_project_id, n2u_stack_id
 
 from neuron_info import nclass
 from catmaid_api import get_gap_junctions_from_catmaid
@@ -18,9 +18,13 @@ pp = pprint.PrettyPrinter(indent=4)
 
 # get the gap junctions and set of gap junctions from the catmaid project
 cgj, cgj_set = get_gap_junctions_from_catmaid(token, project_id, stack_id)
-# get the gap junctions and set of gap junctions from the durbin dataset
-dgj, dgj_set = get_gap_junctions_from_durbin()
 
+# catmaid has some links to some gap junctions in the durbin datasets
+jshgj, _ = get_gap_junctions_from_catmaid(token, jsh_project_id, jsh_stack_id)
+n2ugj, _ = get_gap_junctions_from_catmaid(token, n2u_project_id, n2u_stack_id)
+
+# get the gap junctions and set of gap junctions from the durbin dataset file
+_, dgj_set = get_gap_junctions_from_durbin()
 
 # compute intersection, difference, of gap junctions for christines project and durbins dataset
 gj_intersection = cgj_set & dgj_set
@@ -62,4 +66,4 @@ def write_results_to_file(f_path, gj_set, gj_info):
 
 # write results to file
 write_results_to_file('./output/christine_unique.csv', christine_unique, cgj)
-write_results_to_file('./output/durbin_unique.csv', durbin_unique, dgj)
+write_results_to_file('./output/durbin_unique.csv', durbin_unique, jshgj + n2ugj)
