@@ -27,57 +27,39 @@ gj_intersection = cgj_set & dgj_set
 durbin_unique = dgj_set - cgj_set
 christine_unique = cgj_set - dgj_set
 
+def write_results_to_file(f_path, gj_set, gj_info):
+    f = open(f_path, 'w+')
 
-# write the results to csv file
-SEM_UNIQUE_OUTPUT_FILE = open('./output/christine_unique.csv', 'w+')
-DURBIN_UNIQUE_OUTPUT_FILE = open('./output/durbin_unique.csv', 'w+')
+    # write general info such as unique class pairs, table column names
+    f.write("{},{}\n".format('Unique class pairs', len(gj_set)))
+    f.write(',,,,,,\n')
+    f.write(',,,,,,\n')
+    f.write("{},{},{},{}\n".format('neuron 1', 'neuron 2', 'weight', 'link'))
 
-SEM_UNIQUE_OUTPUT_FILE.write("{},{}\n".format('Unique class pairs', len(christine_unique)))
-SEM_UNIQUE_OUTPUT_FILE.write(',,,,,,\n')
-SEM_UNIQUE_OUTPUT_FILE.write(',,,,,,\n')
-SEM_UNIQUE_OUTPUT_FILE.write("{},{},{},{}\n".format('neuron 1', 'neuron 2', 'weight', 'link'))
-for gj_tuple in sorted(christine_unique, key=lambda tup: tup[0] + tup[1]):
+    # write main bulk data
+    for gj_tuple in sorted(gj_set, key=lambda tup: tup[0] + tup[1]):
 
-    lines = []
-    for gj_info in sorted(cgj, key= lambda o: o['class_set'][0]):
-        if gj_info['class_set'] == gj_tuple:
-            neurons = sorted([gj_info['n1_name'], gj_info['n2_name']])
+        gap_junctions_matching_classes = []
+        for gj in sorted(gj_info, key= lambda o: o['class_set'][0]):
+            if gj['class_set'] == gj_tuple:
+                neurons = sorted([gj['n1_name'], gj['n2_name']])
 
-            pre = neurons[0]
-            post = neurons[1]
-            link = gj_info['link']
-            lines.append([pre, post, link])
+                pre = neurons[0]
+                post = neurons[1]
+                link = gj['link']
+                gap_junctions_matching_classes.append([pre, post, link])
 
-    SEM_UNIQUE_OUTPUT_FILE.write("{},{},{}\n".format(gj_tuple[0], gj_tuple[1], len(lines)))
+        # write the neuron classes and the weight between them
+        f.write("{},{},{}\n".format(gj_tuple[0], gj_tuple[1], len(gap_junctions_matching_classes)))
 
-    for line in lines:
-        SEM_UNIQUE_OUTPUT_FILE.write("{},{}, ,{}\n".format(line[0], line[1], line[2]))
+        # write all gap junctions that match the class pair
+        for line in gap_junctions_matching_classes:
+            f.write("{},{}, ,{}\n".format(line[0], line[1], line[2]))
 
-    SEM_UNIQUE_OUTPUT_FILE.write(',,,,,,\n')
+        f.write(',,,,,,\n')
 
+    f.close()
 
-DURBIN_UNIQUE_OUTPUT_FILE.write("{},{}\n".format('Unique class pairs', len(durbin_unique)))
-DURBIN_UNIQUE_OUTPUT_FILE.write(',,,,,,\n')
-DURBIN_UNIQUE_OUTPUT_FILE.write(',,,,,,\n')
-DURBIN_UNIQUE_OUTPUT_FILE.write("{},{},{},{}\n".format('neuron 1', 'neuron 2', 'weight', 'link'))
-for gj_tuple in sorted(durbin_unique, key=lambda tup: tup[0] + tup[1]):
-
-    lines = []
-    for gj_info in sorted(dgj, key = lambda o: o['class_set'][0]):
-        if gj_info['class_set'] == gj_tuple:
-            neurons = sorted([gj_info['n1_name'], gj_info['n2_name']])
-
-            pre = neurons[0]
-            post = neurons[1]
-            link = gj_info['link']
-            lines.append([pre, post, link])
-
-    DURBIN_UNIQUE_OUTPUT_FILE.write("{},{},{}\n".format(gj_tuple[0], gj_tuple[1], len(lines)))
-
-    for line in lines:
-        DURBIN_UNIQUE_OUTPUT_FILE.write("{},{}, ,{}\n".format(line[0], line[1], line[2]))
-
-    DURBIN_UNIQUE_OUTPUT_FILE.write(',,,,,,\n')
-
-DURBIN_UNIQUE_OUTPUT_FILE.close()
-SEM_UNIQUE_OUTPUT_FILE.close()
+# write results to file
+write_results_to_file('./output/christine_unique.csv', christine_unique, cgj)
+write_results_to_file('./output/durbin_unique.csv', durbin_unique, dgj)
