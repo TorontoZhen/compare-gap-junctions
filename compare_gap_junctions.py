@@ -67,3 +67,4 @@ def write_results_to_file(f_path, gj_set, gj_info):
 # write results to file
 write_results_to_file('./output/christine_unique.csv', christine_unique, cgj)
 write_results_to_file('./output/durbin_unique.csv', durbin_unique, jshgj + n2ugj)
+write_results_to_file('./output/intersection.csv', gj_intersection, cgj)
