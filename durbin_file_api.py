@@ -53,8 +53,6 @@ def get_gap_junctions_from_durbin():
 
           dataset, typ, pre, post = edge
 
-          dataset = {'N2U': 'white_adult', 'JSH': 'white_l4'}[dataset]
-
           if typ == 'Gap_junction':
             nc1, _ = nclass(pre)
             nc2, _ = nclass(post)
@@ -69,7 +67,7 @@ def get_gap_junctions_from_durbin():
             gj['n2_class'] = nc2
             gj['class_set'] = (n_classes[0], n_classes[1])
             gj['link'] = 'N/A'
-
+            gj['dataset'] = dataset
             gap_junctions_set.add(gj['class_set'])
             gap_junctions.append(gj)
 

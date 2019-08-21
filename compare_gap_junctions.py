@@ -24,14 +24,30 @@ jshgj, _ = get_gap_junctions_from_catmaid(token, jsh_project_id, jsh_stack_id)
 n2ugj, _ = get_gap_junctions_from_catmaid(token, n2u_project_id, n2u_stack_id)
 
 # get the gap junctions and set of gap junctions from the durbin dataset file
-_, dgj_set = get_gap_junctions_from_durbin()
+dgj, dgj_set = get_gap_junctions_from_durbin()
+
+for gj_info in jshgj:
+    class_info = gj_info['class_set']
+
+    for dgj_info in dgj:
+        if dgj_info['class_set'] == class_info:
+            gj_info['dataset'] = dgj_info['dataset']
+
+for gj_info in n2ugj:
+    class_info = gj_info['class_set']
+
+    for dgj_info in dgj:
+        if dgj_info['class_set'] == class_info:
+            gj_info['dataset'] = dgj_info['dataset']
+
+
 
 # compute intersection, difference, of gap junctions for christines project and durbins dataset
 gj_intersection = cgj_set & dgj_set
 durbin_unique = dgj_set - cgj_set
 christine_unique = cgj_set - dgj_set
 
-def write_results_to_file(f_path, gj_set, gj_info):
+def write_results_to_file(f_path, gj_set, gj_info, durbin_unique=False):
     f = open(f_path, 'w+')
 
     # write general info such as unique class pairs, table column names
@@ -51,14 +67,26 @@ def write_results_to_file(f_path, gj_set, gj_info):
                 pre = neurons[0]
                 post = neurons[1]
                 link = gj['link']
-                gap_junctions_matching_classes.append([pre, post, link])
+                dataset = gj.get('dataset', '')
+                content = ', '.join([pre, post, '', link, dataset]) + '\n'
+                gap_junctions_matching_classes.append(content)
+
+        gj_class_header = [gj_tuple[0], gj_tuple[1], len(gap_junctions_matching_classes)]
+        if durbin_unique and len(gap_junctions_matching_classes) == 0:
+            dataset = ''
+            for gj_i in dgj:
+                if gj_i['class_set'] == gj_tuple:
+                    dataset = gj_i['dataset']
+            gj_class_header.append(dataset)
 
         # write the neuron classes and the weight between them
-        f.write("{},{},{}\n".format(gj_tuple[0], gj_tuple[1], len(gap_junctions_matching_classes)))
+        class_header_content = ', '.join(str(x) for x in gj_class_header) + '\n'
+        print gj_class_header
+        f.write(class_header_content)
 
         # write all gap junctions that match the class pair
         for line in gap_junctions_matching_classes:
-            f.write("{},{}, ,{}\n".format(line[0], line[1], line[2]))
+            f.write(line)
 
         f.write(',,,,,,\n')
 
@@ -66,5 +94,5 @@ def write_results_to_file(f_path, gj_set, gj_info):
 
 # write results to file
 write_results_to_file('./output/christine_unique.csv', christine_unique, cgj)
-write_results_to_file('./output/durbin_unique.csv', durbin_unique, jshgj + n2ugj)
+write_results_to_file('./output/durbin_unique.csv', durbin_unique, jshgj + n2ugj, True)
 write_results_to_file('./output/intersection.csv', gj_intersection, cgj)
