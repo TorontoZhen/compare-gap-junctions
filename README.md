@@ -22,4 +22,7 @@ Edit config.py with your values for:
 - ```n2u_stack_id```: Stack id for the n2u project
 
 Run the script:
-`pipenv run python compare_gap_junctions.py`
+
+`python compare_gap_junctions.py`
+
+The output folder will contain the csv files for the difference, and intersections.
