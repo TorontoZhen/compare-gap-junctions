@@ -72,16 +72,14 @@ def write_results_to_file(f_path, gj_set, gj_info, durbin_unique=False):
                 gap_junctions_matching_classes.append(content)
 
         gj_class_header = [gj_tuple[0], gj_tuple[1], len(gap_junctions_matching_classes)]
-        if durbin_unique and len(gap_junctions_matching_classes) == 0:
-            dataset = ''
-            for gj_i in dgj:
-                if gj_i['class_set'] == gj_tuple:
-                    dataset = gj_i['dataset']
-            gj_class_header.append(dataset)
+        dataset = ''
+        for gj_i in dgj:
+            if gj_i['class_set'] == gj_tuple:
+                dataset = gj_i['dataset']
+        gj_class_header.append(dataset)
 
         # write the neuron classes and the weight between them
         class_header_content = ', '.join(str(x) for x in gj_class_header) + '\n'
-        print gj_class_header
         f.write(class_header_content)
 
         # write all gap junctions that match the class pair
