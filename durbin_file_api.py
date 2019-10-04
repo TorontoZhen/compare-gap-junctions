@@ -1,5 +1,5 @@
 from collections import defaultdict
-from neuron_info import nclass
+from neuron_info import get_neuron_class
 
 import pprint
 pp = pprint.PrettyPrinter(indent=4)
@@ -54,8 +54,8 @@ def get_gap_junctions_from_durbin():
           dataset, typ, pre, post = edge
 
           if typ == 'Gap_junction':
-            nc1, _ = nclass(pre)
-            nc2, _ = nclass(post)
+            nc1 = get_neuron_class(pre)
+            nc2 = get_neuron_class(post)
             n_classes = [nc1, nc2]
             n_classes.sort()
 

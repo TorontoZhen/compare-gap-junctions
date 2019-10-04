@@ -9,7 +9,7 @@ Created on Tue Jul  9 15:24:02 2019
 # Get the gap junctions from project 129 (Christine) and compare them to the White datasets
 from config import token, project_id, stack_id, jsh_project_id, jsh_stack_id, n2u_project_id, n2u_stack_id
 
-from neuron_info import nclass
+from neuron_info import get_neuron_class
 from catmaid_api import get_gap_junctions_from_catmaid
 from durbin_file_api import get_gap_junctions_from_durbin
 

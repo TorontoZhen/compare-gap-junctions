@@ -4,7 +4,7 @@ import requests
 import pprint
 pp = pprint.PrettyPrinter(indent=4)
 
-from neuron_info import is_neuron, is_neuron_class, nclass
+from neuron_info import is_neuron, is_neuron_class, get_neuron_class
 
 
 class CatmaidApiTokenAuth(HTTPBasicAuth):
@@ -85,8 +85,8 @@ def get_gap_junctions_from_catmaid(token, project_id, stack_id):
     neuron1_name = skid_to_name[neuron1_id]
     neuron2_name = skid_to_name[neuron2_id]
 
-    nc1, _ = nclass(neuron1_name)
-    nc2, _ = nclass(neuron2_name)
+    nc1 = get_neuron_class(neuron1_name)
+    nc2 = get_neuron_class(neuron2_name)
 
     n_classes = [nc1, nc2]
     n_classes.sort()
