@@ -1,1 +1,1487 @@
-a
+SEM Unique class pairs,121
+,,,,,,
+,,,,,,
+neuron 1,neuron 2,weight,link
+ADA, ADA, 1
+ADAL, ADAR, , https://catmaid.nemanode.org/?pid=129&zp=5760.0&yp=19160.0&xp=36562.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+ADA, ALM, 1
+ADAL, ALML, , https://catmaid.nemanode.org/?pid=129&zp=16380.0&yp=22653.0&xp=41272.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+ADA, AVB, 1
+ADAL, AVBL, , https://catmaid.nemanode.org/?pid=129&zp=15540.0&yp=25141.0&xp=42008.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+ADA, AWB, 2
+ADAL, AWBL, , https://catmaid.nemanode.org/?pid=129&zp=16620.0&yp=22212.0&xp=41334.0&tool=tracingtool&sid0=101&s0=0,
+ADAR, AWBR, , https://catmaid.nemanode.org/?pid=129&zp=4500.0&yp=24830.0&xp=40114.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+ADA, RIP, 1
+ADAL, RIPL, , https://catmaid.nemanode.org/?pid=129&zp=12030.0&yp=17982.0&xp=37462.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+ADE, ALM, 1
+ADER, ALMR, , https://catmaid.nemanode.org/?pid=129&zp=420.0&yp=19528.0&xp=42552.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+ADF, AIZ, 1
+ADFR, AIZR, , https://catmaid.nemanode.org/?pid=129&zp=4500.0&yp=27930.0&xp=40794.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+ADL, AVA, 1
+ADLL, AVAL, , https://catmaid.nemanode.org/?pid=129&zp=16200.0&yp=25504.0&xp=42564.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+ADL, AVD, 1
+ADLL, AVDR, , https://catmaid.nemanode.org/?pid=129&zp=16350.0&yp=24492.0&xp=42358.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+ADL, AVJ, 1
+ADLR, AVJR, , https://catmaid.nemanode.org/?pid=129&zp=3450.0&yp=20327.0&xp=38866.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+ADL, AWC, 1
+ADLL, AWCL, , https://catmaid.nemanode.org/?pid=129&zp=15240.0&yp=17900.0&xp=40206.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+ADL, RMG, 1
+ADLL, RMGL, , https://catmaid.nemanode.org/?pid=129&zp=16620.0&yp=23816.0&xp=42674.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+AFD, AFD, 1
+AFDL, AFDR, , https://catmaid.nemanode.org/?pid=129&zp=7920.0&yp=15106.0&xp=37690.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+AFD, AIY, 5
+AFDL, AIYL, , https://catmaid.nemanode.org/?pid=129&zp=8700.0&yp=15104.0&xp=37720.0&tool=tracingtool&sid0=101&s0=0,
+AFDR, AIYR, , https://catmaid.nemanode.org/?pid=129&zp=5100.0&yp=17694.0&xp=37276.0&tool=tracingtool&sid0=101&s0=0,
+AFDL, AIYL, , https://catmaid.nemanode.org/?pid=129&zp=9360.0&yp=15023.0&xp=38002.0&tool=tracingtool&sid0=101&s0=0,
+AFDL, AIYL, , https://catmaid.nemanode.org/?pid=129&zp=16500.0&yp=19532.0&xp=40646.0&tool=tracingtool&sid0=101&s0=0,
+AFDL, AIYL, , https://catmaid.nemanode.org/?pid=129&zp=7920.0&yp=15336.0&xp=37840.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+AIA, AIZ, 1
+AIAL, AIZL, , https://catmaid.nemanode.org/?pid=129&zp=14340.0&yp=17492.0&xp=39212.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+AIB, AIB, 1
+AIBL, AIBR, , https://catmaid.nemanode.org/?pid=129&zp=8430.0&yp=15896.0&xp=36822.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+AIB, AWC, 2
+AIBR, AWCL, , https://catmaid.nemanode.org/?pid=129&zp=3120.0&yp=25536.0&xp=40852.0&tool=tracingtool&sid0=101&s0=0,
+AIBR, AWCR, , https://catmaid.nemanode.org/?pid=129&zp=3060.0&yp=20260.0&xp=38214.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+AIB, DVC, 2
+AIBR, DVC, , https://catmaid.nemanode.org/?pid=129&zp=16170.0&yp=27142.0&xp=41446.0&tool=tracingtool&sid0=101&s0=0,
+AIBL, DVC, , https://catmaid.nemanode.org/?pid=129&zp=5190.0&yp=16950.0&xp=34938.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+AIB, RIB, 1
+AIBL, RIBR, , https://catmaid.nemanode.org/?pid=129&zp=3480.0&yp=19791.0&xp=35414.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+AIB, RIS, 1
+AIBR, RIS, , https://catmaid.nemanode.org/?pid=129&zp=11580.0&yp=29590.0&xp=43244.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+AIM, RIF, 1
+AIMR, RIFR, , https://catmaid.nemanode.org/?pid=129&zp=7530.0&yp=17772.0&xp=38196.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+AIM, URX, 1
+AIML, URXL, , https://catmaid.nemanode.org/?pid=129&zp=14340.0&yp=18904.0&xp=39258.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+AIN, AIN, 2
+AINL, AINR, , https://catmaid.nemanode.org/?pid=129&zp=11970.0&yp=33001.0&xp=49873.0&tool=tracingtool&sid0=101&s0=0,
+AINL, AINR, , https://catmaid.nemanode.org/?pid=129&zp=9960.0&yp=33653.0&xp=49876.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+AIN, AUA, 1
+AINL, AUAR, , https://catmaid.nemanode.org/?pid=129&zp=4200.0&yp=18113.0&xp=36838.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+AIY, AIZ, 1
+AIYR, AIZR, , https://catmaid.nemanode.org/?pid=129&zp=4920.0&yp=28527.0&xp=41466.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+AIY, BAG, 5
+AIYR, BAGL, , https://catmaid.nemanode.org/?pid=129&zp=3330.0&yp=19889.0&xp=36602.0&tool=tracingtool&sid0=101&s0=0,
+AIYR, BAGL, , https://catmaid.nemanode.org/?pid=129&zp=3810.0&yp=27189.0&xp=40922.0&tool=tracingtool&sid0=101&s0=0,
+AIYR, BAGL, , https://catmaid.nemanode.org/?pid=129&zp=4200.0&yp=27763.0&xp=41144.0&tool=tracingtool&sid0=101&s0=0,
+AIYR, BAGL, , https://catmaid.nemanode.org/?pid=129&zp=3900.0&yp=27290.0&xp=40978.0&tool=tracingtool&sid0=101&s0=0,
+AIYR, BAGL, , https://catmaid.nemanode.org/?pid=129&zp=3750.0&yp=19333.0&xp=36550.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+AIY, RIR, 2
+AIYL, RIR, , https://catmaid.nemanode.org/?pid=129&zp=12660.0&yp=16776.0&xp=38332.0&tool=tracingtool&sid0=101&s0=0,
+AIYR, RIR, , https://catmaid.nemanode.org/?pid=129&zp=3810.0&yp=19325.0&xp=36786.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+AIY, RIS, 1
+AIYL, RIS, , https://catmaid.nemanode.org/?pid=129&zp=11010.0&yp=32853.6&xp=52889.6&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+AIZ, AVE, 1
+AIZR, AVER, , https://catmaid.nemanode.org/?pid=129&zp=5040.0&yp=17983.0&xp=35964.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+AIZ, AWB, 1
+AIZL, AWBL, , https://catmaid.nemanode.org/?pid=129&zp=16560.0&yp=20848.0&xp=41462.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+AIZ, BAG, 3
+AIZR, BAGL, , https://catmaid.nemanode.org/?pid=129&zp=3810.0&yp=27145.0&xp=40594.0&tool=tracingtool&sid0=101&s0=0,
+AIZR, BAGL, , https://catmaid.nemanode.org/?pid=129&zp=6210.0&yp=30422.0&xp=43098.0&tool=tracingtool&sid0=101&s0=0,
+AIZR, BAGL, , https://catmaid.nemanode.org/?pid=129&zp=3330.0&yp=20117.0&xp=36934.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+AIZ, DVC, 1
+AIZR, DVC, , https://catmaid.nemanode.org/?pid=129&zp=5070.0&yp=17026.0&xp=35070.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+AIZ, RIA, 1
+AIZL, RIAL, , https://catmaid.nemanode.org/?pid=129&zp=14430.0&yp=29025.0&xp=44181.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+ALA, ASJ, 2
+ALA, ASJR, , https://catmaid.nemanode.org/?pid=129&zp=5460.0&yp=18099.0&xp=37988.0&tool=tracingtool&sid0=101&s0=0,
+ALA, ASJL, , https://catmaid.nemanode.org/?pid=129&zp=15420.0&yp=20682.0&xp=41786.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+ALN, SAA, 1
+ALNR, SAADL, , https://catmaid.nemanode.org/?pid=129&zp=3840.0&yp=21379.0&xp=39442.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+ALN, SIA, 1
+ALNR, SIADL, , https://catmaid.nemanode.org/?pid=129&zp=4410.0&yp=21843.0&xp=36338.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+AQR, AQR, 1
+AQR, AQR, , https://catmaid.nemanode.org/?pid=129&zp=7350.0&yp=17332.0&xp=36458.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+ASH, RIC, 3
+ASHR, RICR, , https://catmaid.nemanode.org/?pid=129&zp=9180.0&yp=35328.0&xp=58110.0&tool=tracingtool&sid0=101&s0=0,
+ASHL, RICL, , https://catmaid.nemanode.org/?pid=129&zp=12930.0&yp=33538.0&xp=55894.0&tool=tracingtool&sid0=101&s0=0,
+ASHR, RICR, , https://catmaid.nemanode.org/?pid=129&zp=7770.0&yp=36476.0&xp=60738.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+ASI, AWC, 1
+ASIR, AWCR, , https://catmaid.nemanode.org/?pid=129&zp=2700.0&yp=20140.0&xp=38282.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+ASI, IL1, 1
+ASIL, IL1L, , https://catmaid.nemanode.org/?pid=129&zp=16080.0&yp=18712.0&xp=40774.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+ASJ, ASJ, 1
+ASJL, ASJR, , https://catmaid.nemanode.org/?pid=129&zp=8070.0&yp=16788.0&xp=39610.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+ASK, HSN, 1
+ASKL, HSNL, , https://catmaid.nemanode.org/?pid=129&zp=8280.0&yp=16532.0&xp=38976.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+ASK, PVQ, 1
+ASKR, PVQL, , https://catmaid.nemanode.org/?pid=129&zp=12840.0&yp=17233.9&xp=39376.2&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+ASK, RMG, 1
+ASKL, RMGR, , https://catmaid.nemanode.org/?pid=129&zp=4410.0&yp=24015.0&xp=40954.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+ASK, URY, 1
+ASKL, URYDR, , https://catmaid.nemanode.org/?pid=129&zp=4740.0&yp=18544.0&xp=37858.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+AUA, AUA, 1
+AUAL, AUAR, , https://catmaid.nemanode.org/?pid=129&zp=8910.0&yp=15343.0&xp=37459.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+AUA, AWB, 1
+AUAL, AWBL, , https://catmaid.nemanode.org/?pid=129&zp=8940.0&yp=15730.0&xp=37652.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+AUA, RIB, 2
+AUAR, RIBR, , https://catmaid.nemanode.org/?pid=129&zp=3000.0&yp=19330.0&xp=35980.0&tool=tracingtool&sid0=101&s0=0,
+AUAR, RIBL, , https://catmaid.nemanode.org/?pid=129&zp=8730.0&yp=15270.0&xp=37284.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+AVA, AVH, 1
+AVAR, AVHL, , https://catmaid.nemanode.org/?pid=129&zp=4320.0&yp=25503.0&xp=39491.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+AVA, RMD, 1
+AVAL, RMDVL, , https://catmaid.nemanode.org/?pid=129&zp=16710.0&yp=19018.0&xp=39032.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+AVA, SAB, 1
+AVAR, SABVL, , https://catmaid.nemanode.org/?pid=129&zp=12390.0&yp=35939.0&xp=65817.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+AVB, PVC, 1
+AVBL, PVCL, , https://catmaid.nemanode.org/?pid=129&zp=14730.0&yp=18265.0&xp=38602.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+AVB, PVP, 1
+AVBL, PVPL, , https://catmaid.nemanode.org/?pid=129&zp=10710.0&yp=16935.0&xp=37820.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+AVB, PVR, 1
+AVBR, PVR, , https://catmaid.nemanode.org/?pid=129&zp=5700.0&yp=19540.0&xp=37178.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+AVB, RID, 3
+AVBL, RID, , https://catmaid.nemanode.org/?pid=129&zp=15690.0&yp=18884.0&xp=38806.0&tool=tracingtool&sid0=101&s0=0,
+AVBR, RID, , https://catmaid.nemanode.org/?pid=129&zp=12780.0&yp=17552.0&xp=37870.0&tool=tracingtool&sid0=101&s0=0,
+AVBR, RID, , https://catmaid.nemanode.org/?pid=129&zp=15000.0&yp=18210.0&xp=38238.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+AVB, RIP, 1
+AVBR, RIPL, , https://catmaid.nemanode.org/?pid=129&zp=11250.0&yp=17737.0&xp=37068.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+AVB, RMF, 1
+AVBR, RMFL, , https://catmaid.nemanode.org/?pid=129&zp=16680.0&yp=25838.0&xp=41726.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+AVB, SDQ, 1
+AVBL, SDQR, , https://catmaid.nemanode.org/?pid=129&zp=8040.0&yp=29392.0&xp=45908.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+AVD, AVD, 1
+AVDL, AVDR, , https://catmaid.nemanode.org/?pid=129&zp=8520.0&yp=15911.0&xp=36052.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+AVE, AVE, 1
+AVEL, AVER, , https://catmaid.nemanode.org/?pid=129&zp=8100.0&yp=16108.0&xp=34992.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+AVE, BAG, 2
+AVER, BAGL, , https://catmaid.nemanode.org/?pid=129&zp=5040.0&yp=17316.0&xp=36120.0&tool=tracingtool&sid0=101&s0=0,
+AVER, BAGR, , https://catmaid.nemanode.org/?pid=129&zp=14820.0&yp=28668.0&xp=43082.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+AVE, RIS, 1
+AVEL, RIS, , https://catmaid.nemanode.org/?pid=129&zp=8910.0&yp=33296.0&xp=57816.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+AVE, SAA, 2
+AVEL, SAAVL, , https://catmaid.nemanode.org/?pid=129&zp=15390.0&yp=19688.0&xp=43730.0&tool=tracingtool&sid0=101&s0=0,
+AVER, SAAVR, , https://catmaid.nemanode.org/?pid=129&zp=3960.0&yp=22549.0&xp=42162.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+AVE, SMD, 2
+AVER, SMDVR, , https://catmaid.nemanode.org/?pid=129&zp=4110.0&yp=19997.0&xp=35882.0&tool=tracingtool&sid0=101&s0=0,
+AVEL, SMDVL, , https://catmaid.nemanode.org/?pid=129&zp=8190.0&yp=29420.0&xp=40224.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+AVJ, AVJ, 1
+AVJL, AVJR, , https://catmaid.nemanode.org/?pid=129&zp=7320.0&yp=18307.0&xp=37146.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+AVJ, PVC, 2
+AVJR, PVCL, , https://catmaid.nemanode.org/?pid=129&zp=11250.0&yp=32271.6&xp=53501.6&tool=tracingtool&sid0=101&s0=0,
+AVJL, PVCR, , https://catmaid.nemanode.org/?pid=129&zp=6570.0&yp=29274.0&xp=43398.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+AVK, RMF, 1
+AVKL, RMFR, , https://catmaid.nemanode.org/?pid=129&zp=18540.0&yp=23726.0&xp=38718.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+AVM, FLP, 2
+AVM, FLPR, , https://catmaid.nemanode.org/?pid=129&zp=9390.0&yp=35266.0&xp=60598.0&tool=tracingtool&sid0=101&s0=0,
+AVM, FLPL, , https://catmaid.nemanode.org/?pid=129&zp=10980.0&yp=32225.6&xp=54101.6&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+AVM, SIB, 1
+AVM, SIBVL, , https://catmaid.nemanode.org/?pid=129&zp=8070.0&yp=32062.0&xp=51994.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+AWB, HSN, 3
+AWBL, HSNL, , https://catmaid.nemanode.org/?pid=129&zp=15000.0&yp=18735.0&xp=39976.0&tool=tracingtool&sid0=101&s0=0,
+AWBL, HSNL, , https://catmaid.nemanode.org/?pid=129&zp=12780.0&yp=17211.0&xp=38848.0&tool=tracingtool&sid0=101&s0=0,
+AWBL, HSNR, , https://catmaid.nemanode.org/?pid=129&zp=9090.0&yp=16183.0&xp=38188.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+AWB, RMF, 1
+AWBR, RMFR, , https://catmaid.nemanode.org/?pid=129&zp=4530.0&yp=27573.0&xp=40466.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+BAG, RIM, 1
+BAGL, RIMR, , https://catmaid.nemanode.org/?pid=129&zp=3300.0&yp=26095.0&xp=37786.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+BWM01, BWM01, 1
+BWM-DL01, BWM-DR01, , https://catmaid.nemanode.org/?pid=129&zp=8970.0&yp=18160.0&xp=33276.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+BWM02, RMH, 1
+BWM-VL02, RMHR, , https://catmaid.nemanode.org/?pid=129&zp=16530.0&yp=22386.0&xp=38340.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+BWM03, BWM03, 1
+BWM-VL03, BWM-VR03, , https://catmaid.nemanode.org/?pid=129&zp=10440.0&yp=27638.0&xp=42240.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+BWM04, RMF, 1
+BWM-DL04, RMFR, , https://catmaid.nemanode.org/?pid=129&zp=15330.0&yp=20456.0&xp=36502.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+BWM05, SDQ, 1
+BWM-VL05, SDQL, , https://catmaid.nemanode.org/?pid=129&zp=13560.0&yp=26698.0&xp=44558.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+BWM07, BWM07, 1
+BWM-DL07, BWM-DR07, , https://catmaid.nemanode.org/?pid=129&zp=8850.0&yp=18204.0&xp=34380.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+BWM07, RMD, 1
+BWM-DL07, RMDVL, , https://catmaid.nemanode.org/?pid=129&zp=9690.0&yp=17932.0&xp=34612.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+BWM08, RMD, 1
+BWM-VL08, RMDR, , https://catmaid.nemanode.org/?pid=129&zp=16380.0&yp=24548.0&xp=39634.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+BWM08, RMG, 1
+BWM-VR08, RMGR, , https://catmaid.nemanode.org/?pid=129&zp=5640.0&yp=26023.0&xp=37560.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+CAN, CEPsh, 1
+CANL, CEPshDL, , https://catmaid.nemanode.org/?pid=129&zp=15990.0&yp=20294.0&xp=42490.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+CEP, CEP, 1
+CEPDL, CEPDR, , https://catmaid.nemanode.org/?pid=129&zp=9120.0&yp=18136.0&xp=34890.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+CEP, URB, 1
+CEPDR, URBR, , https://catmaid.nemanode.org/?pid=129&zp=5520.0&yp=20782.0&xp=36384.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+DVA, OLQ, 2
+DVA, OLQVR, , https://catmaid.nemanode.org/?pid=129&zp=5910.0&yp=27694.0&xp=40956.0&tool=tracingtool&sid0=101&s0=0,
+DVA, OLQVL, , https://catmaid.nemanode.org/?pid=129&zp=15660.0&yp=25742.0&xp=42090.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+FLP, FLP, 1
+FLPL, FLPR, , https://catmaid.nemanode.org/?pid=129&zp=9090.0&yp=34464.0&xp=59489.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+GLR, SIB, 2
+GLRR, SIBVR, , https://catmaid.nemanode.org/?pid=129&zp=6030.0&yp=28402.0&xp=48336.0&tool=tracingtool&sid0=101&s0=0,
+GLRR, SIBVL, , https://catmaid.nemanode.org/?pid=129&zp=13050.0&yp=27483.0&xp=51109.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+HSN, HSN, 1
+HSNL, HSNR, , https://catmaid.nemanode.org/?pid=129&zp=4500.0&yp=19360.0&xp=37628.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+IL1, RMH, 2
+IL1L, RMHR, , https://catmaid.nemanode.org/?pid=129&zp=16740.0&yp=22998.0&xp=38272.0&tool=tracingtool&sid0=101&s0=0,
+IL1L, RMHR, , https://catmaid.nemanode.org/?pid=129&zp=15720.0&yp=21198.0&xp=36918.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+IL2, RIC, 1
+IL2DL, RICL, , https://catmaid.nemanode.org/?pid=129&zp=12480.0&yp=18104.0&xp=37204.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+PVP, RIG, 1
+PVPR, RIGR, , https://catmaid.nemanode.org/?pid=129&zp=5580.0&yp=28603.0&xp=40350.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+PVT, RMF, 1
+PVT, RMFR, , https://catmaid.nemanode.org/?pid=129&zp=15000.0&yp=17074.0&xp=35792.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+RIA, URX, 2
+RIAL, URXL, , https://catmaid.nemanode.org/?pid=129&zp=18540.0&yp=23732.0&xp=41242.0&tool=tracingtool&sid0=101&s0=0,
+RIAR, URXR, , https://catmaid.nemanode.org/?pid=129&zp=3780.0&yp=27173.0&xp=39374.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+RIB, RIM, 1
+RIBR, RIML, , https://catmaid.nemanode.org/?pid=129&zp=9900.0&yp=29579.0&xp=42364.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+RIB, RMD, 4
+RIBL, RMDR, , https://catmaid.nemanode.org/?pid=129&zp=17190.0&yp=20518.0&xp=35838.0&tool=tracingtool&sid0=101&s0=0,
+RIBR, RMDL, , https://catmaid.nemanode.org/?pid=129&zp=6180.0&yp=28801.0&xp=38088.0&tool=tracingtool&sid0=101&s0=0,
+RIBL, RMDR, , https://catmaid.nemanode.org/?pid=129&zp=17610.0&yp=21233.0&xp=36150.0&tool=tracingtool&sid0=101&s0=0,
+RIBR, RMDL, , https://catmaid.nemanode.org/?pid=129&zp=4620.0&yp=25803.0&xp=35070.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+RIB, RMF, 1
+RIBL, RMFR, , https://catmaid.nemanode.org/?pid=129&zp=15690.0&yp=28100.0&xp=42058.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+RIB, SMB, 2
+RIBR, SMBDR, , https://catmaid.nemanode.org/?pid=129&zp=2730.0&yp=21350.0&xp=36220.0&tool=tracingtool&sid0=101&s0=0,
+RIBL, SMBDL, , https://catmaid.nemanode.org/?pid=129&zp=15600.0&yp=17696.0&xp=38036.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+RIB, URY, 1
+RIBL, URYVL, , https://catmaid.nemanode.org/?pid=129&zp=15210.0&yp=27743.0&xp=40440.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+RIC, SAA, 1
+RICL, SAAVR, , https://catmaid.nemanode.org/?pid=129&zp=13560.0&yp=33419.0&xp=56013.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+RIG, RIR, 1
+RIGL, RIR, , https://catmaid.nemanode.org/?pid=129&zp=16770.0&yp=25854.0&xp=41946.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+RIG, RME, 1
+RIGL, RMEL, , https://catmaid.nemanode.org/?pid=129&zp=17490.0&yp=19434.0&xp=36402.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+RIG, SAA, 1
+RIGR, SAADR, , https://catmaid.nemanode.org/?pid=129&zp=3480.0&yp=24397.0&xp=36018.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+RIH, RME, 1
+RIH, RMED, , https://catmaid.nemanode.org/?pid=129&zp=7470.0&yp=18743.0&xp=31152.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+RIM, RIV, 1
+RIML, RIVL, , https://catmaid.nemanode.org/?pid=129&zp=3420.0&yp=22701.0&xp=35830.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+RIM, SIB, 1
+RIMR, SIBVL, , https://catmaid.nemanode.org/?pid=129&zp=7170.0&yp=17554.0&xp=35864.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+RIM, SMD, 2
+RIMR, SMDDL, , https://catmaid.nemanode.org/?pid=129&zp=15000.0&yp=27432.0&xp=41266.0&tool=tracingtool&sid0=101&s0=0,
+RIML, SMDDL, , https://catmaid.nemanode.org/?pid=129&zp=4230.0&yp=20679.0&xp=35114.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+RIV, SDQ, 2
+RIVL, SDQR, , https://catmaid.nemanode.org/?pid=129&zp=8250.0&yp=29054.0&xp=45046.0&tool=tracingtool&sid0=101&s0=0,
+RIVR, SDQR, , https://catmaid.nemanode.org/?pid=129&zp=12330.0&yp=28421.0&xp=45288.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+RIV, SMB, 1
+RIVL, SMBDR, , https://catmaid.nemanode.org/?pid=129&zp=8100.0&yp=18352.0&xp=36182.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+RMD, RMG, 1
+RMDR, RMGL, , https://catmaid.nemanode.org/?pid=129&zp=17610.0&yp=20990.0&xp=36754.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+RME, SMD, 2
+RMED, SMDDR, , https://catmaid.nemanode.org/?pid=129&zp=10230.0&yp=28750.0&xp=42244.0&tool=tracingtool&sid0=101&s0=0,
+RMEV, SMDVR, , https://catmaid.nemanode.org/?pid=129&zp=7890.0&yp=17460.0&xp=32752.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+RME, URA, 1
+RMEV, URADR, , https://catmaid.nemanode.org/?pid=129&zp=5280.0&yp=21533.0&xp=31908.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+RMF, RMG, 6
+RMFL, RMGR, , https://catmaid.nemanode.org/?pid=129&zp=4380.0&yp=26434.0&xp=36586.0&tool=tracingtool&sid0=101&s0=0,
+RMFL, RMGR, , https://catmaid.nemanode.org/?pid=129&zp=4380.0&yp=25947.0&xp=36378.0&tool=tracingtool&sid0=101&s0=0,
+RMFL, RMGR, , https://catmaid.nemanode.org/?pid=129&zp=3660.0&yp=22909.0&xp=34986.0&tool=tracingtool&sid0=101&s0=0,
+RMFR, RMGL, , https://catmaid.nemanode.org/?pid=129&zp=18300.0&yp=22685.0&xp=38144.0&tool=tracingtool&sid0=101&s0=0,
+RMFL, RMGR, , https://catmaid.nemanode.org/?pid=129&zp=4920.0&yp=22521.0&xp=35430.0&tool=tracingtool&sid0=101&s0=0,
+RMFR, RMGL, , https://catmaid.nemanode.org/?pid=129&zp=14970.0&yp=20062.0&xp=37120.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+RMF, URY, 1
+RMFR, URYDR, , https://catmaid.nemanode.org/?pid=129&zp=4020.0&yp=18883.0&xp=35224.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+RMG, SAA, 1
+RMGR, SAADR, , https://catmaid.nemanode.org/?pid=129&zp=4470.0&yp=26046.0&xp=36842.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+RMG, SMD, 1
+RMGR, SMDVL, , https://catmaid.nemanode.org/?pid=129&zp=3660.0&yp=23157.0&xp=36050.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+SAA, SAA, 1
+SAADR, SAAVL, , https://catmaid.nemanode.org/?pid=129&zp=8760.0&yp=29420.0&xp=47378.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+SAA, SDQ, 1
+SAADL, SDQR, , https://catmaid.nemanode.org/?pid=129&zp=1530.0&yp=19796.0&xp=40148.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+SAA, SMD, 1
+SAAVR, SMDDL, , https://catmaid.nemanode.org/?pid=129&zp=14790.0&yp=27200.0&xp=41676.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+SIA, SMB, 1
+SIAVL, SMBVL, , https://catmaid.nemanode.org/?pid=129&zp=15810.0&yp=20872.0&xp=38568.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+, SMD, 3
+SMDVR, VAn, , https://catmaid.nemanode.org/?pid=129&zp=13560.0&yp=34919.0&xp=60305.0&tool=tracingtool&sid0=101&s0=0,
+SMDVL, VBn, , https://catmaid.nemanode.org/?pid=129&zp=8340.0&yp=35358.0&xp=59328.0&tool=tracingtool&sid0=101&s0=0,
+SMDVR, VAn, , https://catmaid.nemanode.org/?pid=129&zp=13590.0&yp=34261.6&xp=58909.6&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+URX, URY, 1
+URXR, URYVR, , https://catmaid.nemanode.org/?pid=129&zp=4380.0&yp=28310.0&xp=39900.0&tool=tracingtool&sid0=101&s0=0,
+,,,,,,
+
+
+
+TEM Unique class pairs,103
+,,,,,,
+,,,,,,
+neuron 1,neuron 2,weight,link
+ADA, ADE, 1
+ADAR, ADER, , https://catmaid.nemanode.org/?pid=130&zp=22200.0&yp=34970.8&xp=25396.3&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+ADA, AVJ, 1
+ADAR, AVJL, , https://catmaid.nemanode.org/?pid=130&zp=20350.0&yp=33689.4&xp=25524.7&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+ADA, RIC, 1
+ADAR, RICR, , https://catmaid.nemanode.org/?pid=130&zp=6700.0&yp=18423.9&xp=17757.8&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+ADA, RIM, 2
+ADAL, RIML, , https://catmaid.nemanode.org/?pid=130&zp=13200.0&yp=29424.3&xp=27929.7&tool=tracingtool&sid0=100&s0=0,
+ADAR, RIMR, , https://catmaid.nemanode.org/?pid=130&zp=11550.0&yp=29122.2&xp=24826.5&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+ADE, AVF, 1
+ADEL, AVFR, , https://catmaid.nemanode.org/?pid=130&zp=20650.0&yp=32847.7&xp=29102.9&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+ADE, AVK, 1
+ADEL, AVKR, , https://catmaid.nemanode.org/?pid=130&zp=20850.0&yp=32859.6&xp=29047.3&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+ADE, BWM04, 1
+ADEL, BWM-VL04, , https://catmaid.nemanode.org/?pid=130&zp=5950.0&yp=19759.3&xp=32129.5&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+ADE, RIC, 1
+ADER, RICR, , https://catmaid.nemanode.org/?pid=130&zp=16700.0&yp=31595.9&xp=27117.4&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+ADF, RIH, 1
+ADFL, RIH, , https://catmaid.nemanode.org/?pid=130&zp=8350.0&yp=29487.3&xp=30682.7&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+ADL, AIY, 1
+ADLL, AIYL, , https://catmaid.nemanode.org/?pid=130&zp=9900.0&yp=29827.0&xp=30958.2&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+ADL, ASH, 1
+ADLL, ASHL, , https://catmaid.nemanode.org/?pid=130&zp=8400.0&yp=24908.7&xp=33232.3&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+AIA, AIY, 1
+AIAL, AIYL, , https://catmaid.nemanode.org/?pid=130&zp=22000.0&yp=32257.7&xp=28486.8&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+AIA, ASE, 1
+AIAL, ASER, , https://catmaid.nemanode.org/?pid=130&zp=9600.0&yp=12946.0&xp=28535.4&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+AIA, ASG, 1
+AIAR, ASGR, , https://catmaid.nemanode.org/?pid=130&zp=16800.0&yp=33025.6&xp=24370.8&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+AIA, ASJ, 3
+AIAR, ASJR, , https://catmaid.nemanode.org/?pid=130&zp=10050.0&yp=13227.5&xp=23986.4&tool=tracingtool&sid0=100&s0=0,
+AIAL, ASJL, , https://catmaid.nemanode.org/?pid=130&zp=10200.0&yp=23584.2&xp=33610.1&tool=tracingtool&sid0=100&s0=0,
+AIAL, ASJL, , https://catmaid.nemanode.org/?pid=130&zp=10100.0&yp=13296.3&xp=25804.4&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+AIA, HSN, 1
+AIAR, HSNL, , https://catmaid.nemanode.org/?pid=130&zp=9650.0&yp=23251.8&xp=18930.8&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+AIB, AQR, 1
+AIBL, AQR, , https://catmaid.nemanode.org/?pid=130&zp=15950.0&yp=30266.9&xp=25115.4&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+AIB, ASE, 1
+AIBR, ASER, , https://catmaid.nemanode.org/?pid=130&zp=9200.0&yp=17825.8&xp=17027.2&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+AIB, ASG, 1
+AIBL, ASGL, , https://catmaid.nemanode.org/?pid=130&zp=10050.0&yp=29220.2&xp=31652.9&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+AIB, AUA, 1
+AIBL, AUAR, , https://catmaid.nemanode.org/?pid=130&zp=8100.0&yp=11786.6&xp=24902.6&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+AIB, AVL, 1
+AIBR, AVL, , https://catmaid.nemanode.org/?pid=130&zp=10450.0&yp=29169.7&xp=27110.4&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+AIB, RMF, 1
+AIBR, RMFR, , https://catmaid.nemanode.org/?pid=130&zp=9700.0&yp=29498.2&xp=27311.8&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+AIM, ASG, 1
+AIML, ASGL, , https://catmaid.nemanode.org/?pid=130&zp=10250.0&yp=24203.4&xp=33955.1&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+AIM, ASH, 1
+AIML, ASHL, , https://catmaid.nemanode.org/?pid=130&zp=8450.0&yp=17917.8&xp=33385.8&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+AIM, BWM07, 1
+AIML, BWM-DL07, , https://catmaid.nemanode.org/?pid=130&zp=9450.0&yp=14006.2&xp=27971.6&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+AIN, ASG, 1
+AINR, ASGR, , https://catmaid.nemanode.org/?pid=130&zp=15800.0&yp=33008.4&xp=24182.6&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+AIN, RIA, 1
+AINL, RIAR, , https://catmaid.nemanode.org/?pid=130&zp=8900.0&yp=17796.1&xp=16301.5&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+AIY, AWC, 1
+AIYL, AWCR, , https://catmaid.nemanode.org/?pid=130&zp=9600.0&yp=30229.9&xp=31459.1&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+AIY, RIB, 1
+AIYL, RIBL, , https://catmaid.nemanode.org/?pid=130&zp=13350.0&yp=32408.6&xp=28794.9&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+AIZ, RIB, 1
+AIZR, RIBR, , https://catmaid.nemanode.org/?pid=130&zp=16700.0&yp=33532.7&xp=26255.2&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+ALA, BWM07, 1
+ALA, BWM-DL07, , https://catmaid.nemanode.org/?pid=130&zp=9900.0&yp=13772.3&xp=28057.9&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+ALM, ASJ, 1
+ALMR, ASJR, , https://catmaid.nemanode.org/?pid=130&zp=9150.0&yp=16644.7&xp=18715.4&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+AQR, AVH, 1
+AQR, AVHL, , https://catmaid.nemanode.org/?pid=130&zp=14600.0&yp=30198.1&xp=24631.8&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+ASE, SAA, 1
+ASER, SAAVL, , https://catmaid.nemanode.org/?pid=130&zp=18800.0&yp=35743.0&xp=24973.1&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+ASG, CEP, 2
+ASGL, CEPVL, , https://catmaid.nemanode.org/?pid=130&zp=9600.0&yp=28200.3&xp=32797.9&tool=tracingtool&sid0=100&s0=0,
+ASGL, CEPVL, , https://catmaid.nemanode.org/?pid=130&zp=9450.0&yp=28109.0&xp=32449.9&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+ASG, CEPsh, 1
+ASGL, CEPshVL, , https://catmaid.nemanode.org/?pid=130&zp=16300.0&yp=32412.2&xp=29919.8&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+ASH, ASK, 1
+ASHL, ASKL, , https://catmaid.nemanode.org/?pid=130&zp=12750.0&yp=31162.7&xp=29978.2&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+ASI, RIA, 1
+ASIL, RIAL, , https://catmaid.nemanode.org/?pid=130&zp=10000.0&yp=17815.1&xp=34508.4&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+ASJ, BDU, 1
+ASJL, BDUL, , https://catmaid.nemanode.org/?pid=130&zp=10050.0&yp=20299.0&xp=33005.6&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+AVD, PVP, 1
+AVDR, PVPR, , https://catmaid.nemanode.org/?pid=130&zp=7550.0&yp=14815.1&xp=20555.8&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+AVE, AVH, 1
+AVER, AVHR, , https://catmaid.nemanode.org/?pid=130&zp=18000.0&yp=31899.4&xp=28578.8&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+AVE, CEP, 1
+AVER, CEPVR, , https://catmaid.nemanode.org/?pid=130&zp=8850.0&yp=20063.1&xp=18320.6&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+AVE, FLP, 1
+AVEL, FLPL, , https://catmaid.nemanode.org/?pid=130&zp=20100.0&yp=32868.2&xp=26078.4&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+AVE, SIA, 1
+AVEL, SIAVR, , https://catmaid.nemanode.org/?pid=130&zp=23150.0&yp=33791.0&xp=25548.8&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+AVK, AVK, 2
+AVKL, AVKR, , https://catmaid.nemanode.org/?pid=130&zp=23200.0&yp=33625.6&xp=25271.2&tool=tracingtool&sid0=100&s0=0,
+AVKL, AVKR, , https://catmaid.nemanode.org/?pid=130&zp=20200.0&yp=32036.8&xp=28953.2&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+AVK, RMD, 1
+AVKR, RMDVR, , https://catmaid.nemanode.org/?pid=130&zp=4350.0&yp=18999.3&xp=17504.1&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+AVM, PVN, 1
+AVM, PVNL, , https://catmaid.nemanode.org/?pid=130&zp=14300.0&yp=31021.5&xp=29887.0&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+AWC, AWC, 1
+AWCL, AWCR, , https://catmaid.nemanode.org/?pid=130&zp=8650.0&yp=28954.0&xp=32495.8&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+BAG, OLL, 1
+BAGR, OLLR, , https://catmaid.nemanode.org/?pid=130&zp=5800.0&yp=17680.3&xp=16001.3&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+BAG, PVP, 1
+BAGL, PVPR, , https://catmaid.nemanode.org/?pid=130&zp=7950.0&yp=14529.6&xp=19279.4&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+BAG, SIB, 1
+BAGL, SIBDL, , https://catmaid.nemanode.org/?pid=130&zp=7300.0&yp=18210.7&xp=35125.9&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+BDU, BWM06, 1
+BDUL, BWM-DL06, , https://catmaid.nemanode.org/?pid=130&zp=9200.0&yp=15175.9&xp=30284.1&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+BDU, PVN, 1
+BDUR, PVNR, , https://catmaid.nemanode.org/?pid=130&zp=22550.0&yp=35185.1&xp=26015.8&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+BWM01, CEP, 1
+BWM-VR01, CEPVR, , https://catmaid.nemanode.org/?pid=130&zp=8500.0&yp=25492.6&xp=22887.9&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+BWM02, BWM02, 1
+BWM-DR02, BWM-VR02, , https://catmaid.nemanode.org/?pid=130&zp=2250.0&yp=19767.7&xp=20081.4&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+BWM03, RME, 1
+BWM-VL03, RMED, , https://catmaid.nemanode.org/?pid=130&zp=8650.0&yp=26885.0&xp=26885.6&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+BWM03, SMD, 1
+BWM-VL03, SMDVR, , https://catmaid.nemanode.org/?pid=130&zp=7050.0&yp=27561.8&xp=28553.8&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+BWM03, URA, 1
+BWM-DR03, URADR, , https://catmaid.nemanode.org/?pid=130&zp=4050.0&yp=15389.5&xp=21657.4&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+BWM03, URY, 1
+BWM-DL03, URYDL, , https://catmaid.nemanode.org/?pid=130&zp=3850.0&yp=13734.6&xp=27101.7&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+BWM04, PVN, 1
+BWM-DR04, PVNL, , https://catmaid.nemanode.org/?pid=130&zp=8100.0&yp=17406.3&xp=19639.8&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+BWM04, RIM, 2
+BWM-VR04, RIML, , https://catmaid.nemanode.org/?pid=130&zp=5000.0&yp=24037.6&xp=20082.7&tool=tracingtool&sid0=100&s0=0,
+BWM-VR04, RIML, , https://catmaid.nemanode.org/?pid=130&zp=5000.0&yp=24060.2&xp=19837.9&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+BWM04, RME, 2
+BWM-VR04, RMEL, , https://catmaid.nemanode.org/?pid=130&zp=3850.0&yp=19928.9&xp=19176.1&tool=tracingtool&sid0=100&s0=0,
+BWM-VR04, RMEL, , https://catmaid.nemanode.org/?pid=130&zp=5950.0&yp=20525.1&xp=19257.6&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+BWM05, RIC, 1
+BWM-DR05, RICR, , https://catmaid.nemanode.org/?pid=130&zp=6950.0&yp=14781.5&xp=22651.9&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+BWM05, RME, 1
+BWM-VR05, RMED, , https://catmaid.nemanode.org/?pid=130&zp=7000.0&yp=27213.8&xp=26214.4&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+BWM05, SMB, 1
+BWM-VL05, SMBVL, , https://catmaid.nemanode.org/?pid=130&zp=7550.0&yp=25623.2&xp=29229.9&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+BWM06, SMB, 1
+BWM-VR06, SMBVR, , https://catmaid.nemanode.org/?pid=130&zp=6600.0&yp=24272.3&xp=21626.6&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+BWM07, PVN, 1
+BWM-DL07, PVNL, , https://catmaid.nemanode.org/?pid=130&zp=8300.0&yp=14430.7&xp=27721.7&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+BWM07, SMD, 1
+BWM-VR07, SMDDL, , https://catmaid.nemanode.org/?pid=130&zp=9250.0&yp=26887.3&xp=26489.8&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+BWM08, SAA, 1
+BWM-DR08, SAAVR, , https://catmaid.nemanode.org/?pid=130&zp=5250.0&yp=16721.8&xp=18231.0&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+CEP, RMD, 3
+CEPVL, RMDDL, , https://catmaid.nemanode.org/?pid=130&zp=6300.0&yp=27376.8&xp=29094.2&tool=tracingtool&sid0=100&s0=0,
+CEPDR, RMDVL, , https://catmaid.nemanode.org/?pid=130&zp=5550.0&yp=17652.7&xp=18778.4&tool=tracingtool&sid0=100&s0=0,
+CEPDL, RMDDR, , https://catmaid.nemanode.org/?pid=130&zp=3900.0&yp=18049.4&xp=31980.4&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+CEP, URA, 1
+CEPDL, URADL, , https://catmaid.nemanode.org/?pid=130&zp=600.0&yp=13876.4&xp=30944.6&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+CEP, URY, 1
+CEPDR, URYDR, , https://catmaid.nemanode.org/?pid=130&zp=3850.0&yp=12806.2&xp=20504.3&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+FLP, RIM, 2
+FLPL, RIML, , https://catmaid.nemanode.org/?pid=130&zp=17500.0&yp=32049.1&xp=26986.2&tool=tracingtool&sid0=100&s0=0,
+FLPR, RIMR, , https://catmaid.nemanode.org/?pid=130&zp=14450.0&yp=30121.2&xp=25351.2&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+HSN, PVN, 1
+HSNR, PVNL, , https://catmaid.nemanode.org/?pid=130&zp=9250.0&yp=24288.4&xp=32921.6&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+IL1, IL2, 6
+IL1L, IL2L, , https://catmaid.nemanode.org/?pid=130&zp=4800.0&yp=20348.1&xp=32421.4&tool=tracingtool&sid0=100&s0=0,
+IL1L, IL2L, , https://catmaid.nemanode.org/?pid=130&zp=6700.0&yp=20175.8&xp=32508.8&tool=tracingtool&sid0=100&s0=0,
+IL1L, IL2L, , https://catmaid.nemanode.org/?pid=130&zp=7350.0&yp=19807.4&xp=32628.1&tool=tracingtool&sid0=100&s0=0,
+IL1R, IL2R, , https://catmaid.nemanode.org/?pid=130&zp=5750.0&yp=20904.6&xp=18932.9&tool=tracingtool&sid0=100&s0=0,
+IL1R, IL2R, , https://catmaid.nemanode.org/?pid=130&zp=6700.0&yp=20575.9&xp=18667.9&tool=tracingtool&sid0=100&s0=0,
+IL1R, IL2R, , https://catmaid.nemanode.org/?pid=130&zp=6100.0&yp=20825.0&xp=18967.3&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+IL1, RIA, 1
+IL1R, RIAL, , https://catmaid.nemanode.org/?pid=130&zp=4800.0&yp=19112.3&xp=18365.2&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+IL1, RIP, 1
+IL1DL, RIPL, , https://catmaid.nemanode.org/?pid=130&zp=5200.0&yp=15723.5&xp=29357.2&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+IL1, URY, 1
+IL1DR, URYDR, , https://catmaid.nemanode.org/?pid=130&zp=6600.0&yp=12473.5&xp=20196.8&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+OLQ, SIB, 1
+OLQVR, SIBVL, , https://catmaid.nemanode.org/?pid=130&zp=8450.0&yp=26249.3&xp=21237.7&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+PLN, RMD, 2
+PLNL, RMDVR, , https://catmaid.nemanode.org/?pid=130&zp=11000.0&yp=27887.8&xp=28792.0&tool=tracingtool&sid0=100&s0=0,
+PLNL, RMDVR, , https://catmaid.nemanode.org/?pid=130&zp=11350.0&yp=28030.4&xp=28335.1&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+PLN, RMH, 1
+PLNR, RMHR, , https://catmaid.nemanode.org/?pid=130&zp=5850.0&yp=22207.6&xp=18363.1&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+PVT, SMB, 1
+PVT, SMBVL, , https://catmaid.nemanode.org/?pid=130&zp=10550.0&yp=30744.1&xp=27571.9&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+RIA, RIM, 2
+RIAL, RIML, , https://catmaid.nemanode.org/?pid=130&zp=11800.0&yp=28878.4&xp=27818.3&tool=tracingtool&sid0=100&s0=0,
+RIAL, RIML, , https://catmaid.nemanode.org/?pid=130&zp=13450.0&yp=29627.1&xp=27540.2&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+RIA, RIV, 1
+RIAR, RIVL, , https://catmaid.nemanode.org/?pid=130&zp=13550.0&yp=28830.7&xp=25584.4&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+RIA, SAA, 1
+RIAR, SAAVL, , https://catmaid.nemanode.org/?pid=130&zp=13450.0&yp=29038.8&xp=25383.1&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+RIA, SDQ, 1
+RIAR, SDQL, , https://catmaid.nemanode.org/?pid=130&zp=12700.0&yp=28649.2&xp=25771.2&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+RIB, RIV, 1
+RIBL, RIVL, , https://catmaid.nemanode.org/?pid=130&zp=7950.0&yp=16145.2&xp=33849.8&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+RIC, SMD, 1
+RICL, SMDDL, , https://catmaid.nemanode.org/?pid=130&zp=6600.0&yp=26283.2&xp=31657.3&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+RIF, RIM, 1
+RIFL, RIML, , https://catmaid.nemanode.org/?pid=130&zp=17650.0&yp=33484.1&xp=26619.3&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+RIG, RIM, 1
+RIGR, RIML, , https://catmaid.nemanode.org/?pid=130&zp=16300.0&yp=31921.4&xp=27004.2&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+RIG, SMB, 1
+RIGL, SMBDL, , https://catmaid.nemanode.org/?pid=130&zp=16350.0&yp=31414.4&xp=27394.3&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+RIM, URX, 1
+RIML, URXL, , https://catmaid.nemanode.org/?pid=130&zp=6650.0&yp=23417.6&xp=34458.6&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+RIM, URY, 1
+RIMR, URYVR, , https://catmaid.nemanode.org/?pid=130&zp=8250.0&yp=28307.2&xp=22832.8&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+RIP, URA, 3
+RIPL, URADL, , https://catmaid.nemanode.org/?pid=130&zp=6600.0&yp=15320.8&xp=29404.9&tool=tracingtool&sid0=100&s0=0,
+RIPL, URADL, , https://catmaid.nemanode.org/?pid=130&zp=5750.0&yp=15649.2&xp=29357.2&tool=tracingtool&sid0=100&s0=0,
+RIPL, URAVL, , https://catmaid.nemanode.org/?pid=130&zp=7350.0&yp=25093.8&xp=31047.9&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+RIV, RMD, 2
+RIVL, RMDVL, , https://catmaid.nemanode.org/?pid=130&zp=13800.0&yp=28793.6&xp=25102.2&tool=tracingtool&sid0=100&s0=0,
+RIVR, RMDVR, , https://catmaid.nemanode.org/?pid=130&zp=10600.0&yp=27854.2&xp=29035.9&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+RMD, SMB, 1
+RMDDL, SMBDL, , https://catmaid.nemanode.org/?pid=130&zp=8900.0&yp=17647.3&xp=18153.1&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+RME, URY, 1
+RMED, URYDL, , https://catmaid.nemanode.org/?pid=130&zp=3150.0&yp=13020.5&xp=27677.2&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+RMG, RMG, 1
+RMGL, RMGL, , https://catmaid.nemanode.org/?pid=130&zp=7500.0&yp=18326.2&xp=33392.8&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+RMH, RMH, 1
+RMHL, RMHL, , https://catmaid.nemanode.org/?pid=130&zp=7250.0&yp=21719.6&xp=19557.1&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+RMH, URX, 1
+RMHL, URXR, , https://catmaid.nemanode.org/?pid=130&zp=7600.0&yp=21348.6&xp=19175.4&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+SAA, URX, 1
+SAADR, URXL, , https://catmaid.nemanode.org/?pid=130&zp=7550.0&yp=18628.2&xp=33117.1&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+SIA, SIB, 1
+SIAVR, SIBVR, , https://catmaid.nemanode.org/?pid=130&zp=15150.0&yp=31763.9&xp=25907.2&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+SIA, SMD, 1
+SIAVL, SMDVR, , https://catmaid.nemanode.org/?pid=130&zp=18500.0&yp=32062.8&xp=28816.6&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+
+
+INTERSECTION Unique class pairs,148
+,,,,,,
+,,,,,,
+neuron 1,neuron 2,weight,link
+ADA, ADF, 1
+ADAR, ADFR, , https://catmaid.nemanode.org/?pid=130&zp=13200.0&yp=31149.4&xp=25274.4&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+ADA, ASH, 2
+ADAR, ASHR, , https://catmaid.nemanode.org/?pid=130&zp=9500.0&yp=22454.7&xp=18960.9&tool=tracingtool&sid0=100&s0=0,
+ADAL, ASHL, , https://catmaid.nemanode.org/?pid=130&zp=8050.0&yp=16870.4&xp=32624.7&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+ADA, AVD, 7
+ADAL, AVDL, , https://catmaid.nemanode.org/?pid=130&zp=7600.0&yp=14829.3&xp=29914.4&tool=tracingtool&sid0=100&s0=0,
+ADAL, AVDR, , https://catmaid.nemanode.org/?pid=130&zp=18000.0&yp=32263.8&xp=28740.6&tool=tracingtool&sid0=100&s0=0,
+ADAL, AVDR, , https://catmaid.nemanode.org/?pid=130&zp=8300.0&yp=24138.9&xp=32605.5&tool=tracingtool&sid0=100&s0=0,
+ADAL, AVDR, , https://catmaid.nemanode.org/?pid=130&zp=7450.0&yp=12174.1&xp=26045.4&tool=tracingtool&sid0=100&s0=0,
+ADAR, AVDL, , https://catmaid.nemanode.org/?pid=130&zp=7250.0&yp=19544.1&xp=17492.4&tool=tracingtool&sid0=100&s0=0,
+ADAR, AVDR, , https://catmaid.nemanode.org/?pid=130&zp=8100.0&yp=16145.0&xp=19374.3&tool=tracingtool&sid0=100&s0=0,
+ADAR, AVDL, , https://catmaid.nemanode.org/?pid=130&zp=20700.0&yp=33772.9&xp=25300.9&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+ADA, PVQ, 1
+ADAL, PVQL, , https://catmaid.nemanode.org/?pid=130&zp=9350.0&yp=23995.7&xp=33688.1&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+ADA, URX, 1
+ADAR, URXR, , https://catmaid.nemanode.org/?pid=130&zp=8100.0&yp=16457.7&xp=18854.9&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+ADE, AIN, 1
+ADER, AINR, , https://catmaid.nemanode.org/?pid=130&zp=13100.0&yp=14962.0&xp=14704.9&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+ADE, RIM, 1
+ADER, RIML, , https://catmaid.nemanode.org/?pid=130&zp=16700.0&yp=31842.3&xp=26941.2&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+ADF, ADF, 1
+ADFL, ADFR, , https://catmaid.nemanode.org/?pid=130&zp=9000.0&yp=12251.8&xp=27195.3&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+ADF, AIA, 2
+ADFR, AIAR, , https://catmaid.nemanode.org/?pid=130&zp=8650.0&yp=16512.9&xp=17310.8&tool=tracingtool&sid0=100&s0=0,
+ADFR, AIAR, , https://catmaid.nemanode.org/?pid=130&zp=18100.0&yp=34039.2&xp=25361.8&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+ADL, ADL, 1
+ADLL, ADLR, , https://catmaid.nemanode.org/?pid=130&zp=11350.0&yp=12583.5&xp=25711.6&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+AFD, AIB, 1
+AFDR, AIBR, , https://catmaid.nemanode.org/?pid=130&zp=12900.0&yp=32546.1&xp=25057.1&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+AFD, AIZ, 3
+AFDL, AIZL, , https://catmaid.nemanode.org/?pid=130&zp=8250.0&yp=28328.6&xp=32401.7&tool=tracingtool&sid0=100&s0=0,
+AFDR, AIZR, , https://catmaid.nemanode.org/?pid=130&zp=8900.0&yp=17623.8&xp=16754.7&tool=tracingtool&sid0=100&s0=0,
+AFDL, AIZL, , https://catmaid.nemanode.org/?pid=130&zp=8800.0&yp=16378.0&xp=33637.2&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+AIA, AIA, 1
+AIAL, AIAR, , https://catmaid.nemanode.org/?pid=130&zp=10150.0&yp=12395.5&xp=24945.7&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+AIA, AIB, 2
+AIAR, AIBR, , https://catmaid.nemanode.org/?pid=130&zp=13900.0&yp=32795.1&xp=24556.2&tool=tracingtool&sid0=100&s0=0,
+AIAL, AIBL, , https://catmaid.nemanode.org/?pid=130&zp=9900.0&yp=20716.3&xp=34814.3&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+AIA, AIN, 1
+AIAL, AINL, , https://catmaid.nemanode.org/?pid=130&zp=14100.0&yp=32719.4&xp=29612.3&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+AIA, ASI, 3
+AIAL, ASIL, , https://catmaid.nemanode.org/?pid=130&zp=13750.0&yp=32443.2&xp=29549.4&tool=tracingtool&sid0=100&s0=0,
+AIAL, ASIL, , https://catmaid.nemanode.org/?pid=130&zp=10300.0&yp=21532.6&xp=35315.1&tool=tracingtool&sid0=100&s0=0,
+AIAR, ASIR, , https://catmaid.nemanode.org/?pid=130&zp=10200.0&yp=22837.2&xp=17370.8&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+AIA, AWA, 7
+AIAR, AWAR, , https://catmaid.nemanode.org/?pid=130&zp=16150.0&yp=32916.4&xp=24944.7&tool=tracingtool&sid0=100&s0=0,
+AIAR, AWAR, , https://catmaid.nemanode.org/?pid=130&zp=9500.0&yp=20016.8&xp=16969.2&tool=tracingtool&sid0=100&s0=0,
+AIAL, AWAL, , https://catmaid.nemanode.org/?pid=130&zp=12450.0&yp=31368.7&xp=29839.6&tool=tracingtool&sid0=100&s0=0,
+AIAR, AWAR, , https://catmaid.nemanode.org/?pid=130&zp=9250.0&yp=20870.9&xp=17275.0&tool=tracingtool&sid0=100&s0=0,
+AIAR, AWAR, , https://catmaid.nemanode.org/?pid=130&zp=8900.0&yp=15247.6&xp=18199.9&tool=tracingtool&sid0=100&s0=0,
+AIAL, AWAL, , https://catmaid.nemanode.org/?pid=130&zp=9450.0&yp=19385.6&xp=33984.6&tool=tracingtool&sid0=100&s0=0,
+AIAR, AWAR, , https://catmaid.nemanode.org/?pid=130&zp=9200.0&yp=20933.7&xp=17276.7&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+AIA, AWB, 3
+AIAR, AWBR, , https://catmaid.nemanode.org/?pid=130&zp=9250.0&yp=20444.3&xp=17089.2&tool=tracingtool&sid0=100&s0=0,
+AIAL, AWBL, , https://catmaid.nemanode.org/?pid=130&zp=9150.0&yp=20907.2&xp=34339.2&tool=tracingtool&sid0=100&s0=0,
+AIAR, AWBR, , https://catmaid.nemanode.org/?pid=130&zp=8700.0&yp=16460.6&xp=17605.3&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+AIA, URX, 1
+AIAR, URXR, , https://catmaid.nemanode.org/?pid=130&zp=8950.0&yp=20803.8&xp=17649.6&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+AIB, AVE, 1
+AIBR, AVER, , https://catmaid.nemanode.org/?pid=130&zp=15350.0&yp=31117.6&xp=28041.0&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+AIB, FLP, 1
+AIBL, FLPR, , https://catmaid.nemanode.org/?pid=130&zp=14450.0&yp=30187.4&xp=25571.2&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+AIB, PVT, 2
+AIBR, PVT, , https://catmaid.nemanode.org/?pid=130&zp=10550.0&yp=29752.9&xp=27047.2&tool=tracingtool&sid0=100&s0=0,
+AIBR, PVT, , https://catmaid.nemanode.org/?pid=130&zp=10500.0&yp=29742.1&xp=27060.1&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+AIB, RIG, 1
+AIBR, RIGL, , https://catmaid.nemanode.org/?pid=130&zp=6500.0&yp=14413.3&xp=31829.6&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+AIB, RIM, 1
+AIBR, RIMR, , https://catmaid.nemanode.org/?pid=130&zp=10350.0&yp=28994.7&xp=27969.0&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+AIB, RIV, 4
+AIBR, RIVL, , https://catmaid.nemanode.org/?pid=130&zp=10700.0&yp=29138.2&xp=26702.7&tool=tracingtool&sid0=100&s0=0,
+AIBR, RIVR, , https://catmaid.nemanode.org/?pid=130&zp=10750.0&yp=29005.2&xp=27566.2&tool=tracingtool&sid0=100&s0=0,
+AIBR, RIVR, , https://catmaid.nemanode.org/?pid=130&zp=9900.0&yp=29148.3&xp=28313.5&tool=tracingtool&sid0=100&s0=0,
+AIBR, RIVR, , https://catmaid.nemanode.org/?pid=130&zp=9750.0&yp=29183.2&xp=28496.8&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+AIB, RME, 2
+AIBL, RMEV, , https://catmaid.nemanode.org/?pid=130&zp=10150.0&yp=29811.2&xp=26668.3&tool=tracingtool&sid0=100&s0=0,
+AIBL, RMED, , https://catmaid.nemanode.org/?pid=130&zp=6250.0&yp=11361.7&xp=23789.9&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+AIB, SMD, 3
+AIBL, SMDDR, , https://catmaid.nemanode.org/?pid=130&zp=9600.0&yp=28835.9&xp=25406.9&tool=tracingtool&sid0=100&s0=0,
+AIBR, SMDDL, , https://catmaid.nemanode.org/?pid=130&zp=11050.0&yp=28739.5&xp=27535.3&tool=tracingtool&sid0=100&s0=0,
+AIBR, SMDDL, , https://catmaid.nemanode.org/?pid=130&zp=9750.0&yp=28932.8&xp=27173.6&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+AIM, AIM, 1
+AIML, AIMR, , https://catmaid.nemanode.org/?pid=130&zp=9850.0&yp=13950.5&xp=23212.1&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+AIM, RMG, 1
+AIMR, RMGR, , https://catmaid.nemanode.org/?pid=130&zp=18950.0&yp=33581.2&xp=25267.3&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+AIM, SIB, 3
+AIML, SIBVR, , https://catmaid.nemanode.org/?pid=130&zp=18400.0&yp=32793.8&xp=28944.6&tool=tracingtool&sid0=100&s0=0,
+AIMR, SIBDL, , https://catmaid.nemanode.org/?pid=130&zp=8700.0&yp=17856.7&xp=17326.4&tool=tracingtool&sid0=100&s0=0,
+AIML, SIBDR, , https://catmaid.nemanode.org/?pid=130&zp=8800.0&yp=17317.3&xp=32717.6&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+AIY, AIY, 1
+AIYL, AIYR, , https://catmaid.nemanode.org/?pid=130&zp=9650.0&yp=11888.8&xp=25215.5&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+AIY, ASE, 2
+AIYL, ASEL, , https://catmaid.nemanode.org/?pid=130&zp=8800.0&yp=25695.4&xp=34145.9&tool=tracingtool&sid0=100&s0=0,
+AIYR, ASER, , https://catmaid.nemanode.org/?pid=130&zp=8850.0&yp=12755.2&xp=21515.6&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+AIY, ASG, 1
+AIYL, ASGL, , https://catmaid.nemanode.org/?pid=130&zp=17800.0&yp=33122.4&xp=28115.2&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+AIY, AWB, 2
+AIYL, AWBL, , https://catmaid.nemanode.org/?pid=130&zp=8700.0&yp=28731.6&xp=31924.6&tool=tracingtool&sid0=100&s0=0,
+AIYL, AWBL, , https://catmaid.nemanode.org/?pid=130&zp=15400.0&yp=33129.9&xp=28776.3&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+AIZ, AIZ, 3
+AIZL, AIZR, , https://catmaid.nemanode.org/?pid=130&zp=8050.0&yp=12164.5&xp=24571.8&tool=tracingtool&sid0=100&s0=0,
+AIZL, AIZR, , https://catmaid.nemanode.org/?pid=130&zp=14900.0&yp=32296.8&xp=27422.2&tool=tracingtool&sid0=100&s0=0,
+AIZL, AIZR, , https://catmaid.nemanode.org/?pid=130&zp=13400.0&yp=32306.2&xp=27220.8&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+AIZ, ASE, 2
+AIZL, ASER, , https://catmaid.nemanode.org/?pid=130&zp=8800.0&yp=14836.8&xp=32640.2&tool=tracingtool&sid0=100&s0=0,
+AIZL, ASER, , https://catmaid.nemanode.org/?pid=130&zp=9550.0&yp=20203.2&xp=35213.2&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+AIZ, ASG, 1
+AIZR, ASGR, , https://catmaid.nemanode.org/?pid=130&zp=10700.0&yp=30531.9&xp=22656.2&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+AIZ, ASH, 4
+AIZL, ASHL, , https://catmaid.nemanode.org/?pid=130&zp=8800.0&yp=12456.0&xp=24251.2&tool=tracingtool&sid0=100&s0=0,
+AIZL, ASHL, , https://catmaid.nemanode.org/?pid=130&zp=8150.0&yp=25227.9&xp=33793.2&tool=tracingtool&sid0=100&s0=0,
+AIZR, ASHR, , https://catmaid.nemanode.org/?pid=130&zp=8650.0&yp=12454.7&xp=24019.3&tool=tracingtool&sid0=100&s0=0,
+AIZR, ASHR, , https://catmaid.nemanode.org/?pid=130&zp=8550.0&yp=22649.2&xp=18040.8&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+AIZ, AUA, 1
+AIZR, AUAR, , https://catmaid.nemanode.org/?pid=130&zp=8150.0&yp=11880.8&xp=24627.2&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+AIZ, AWA, 1
+AIZR, AWAR, , https://catmaid.nemanode.org/?pid=130&zp=8900.0&yp=22087.1&xp=17616.9&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+AIZ, AWC, 5
+AIZR, AWCR, , https://catmaid.nemanode.org/?pid=130&zp=9450.0&yp=29797.5&xp=21523.9&tool=tracingtool&sid0=100&s0=0,
+AIZR, AWCR, , https://catmaid.nemanode.org/?pid=130&zp=10450.0&yp=30591.4&xp=22744.6&tool=tracingtool&sid0=100&s0=0,
+AIZR, AWCL, , https://catmaid.nemanode.org/?pid=130&zp=9450.0&yp=19579.4&xp=16280.9&tool=tracingtool&sid0=100&s0=0,
+AIZR, AWCR, , https://catmaid.nemanode.org/?pid=130&zp=9050.0&yp=24304.1&xp=17931.9&tool=tracingtool&sid0=100&s0=0,
+AIZR, AWCL, , https://catmaid.nemanode.org/?pid=130&zp=9450.0&yp=21616.9&xp=16407.1&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+ALA, PVQ, 1
+ALA, PVQL, , https://catmaid.nemanode.org/?pid=130&zp=10700.0&yp=13535.3&xp=26712.6&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+ALM, AVD, 1
+ALMR, AVDR, , https://catmaid.nemanode.org/?pid=130&zp=9300.0&yp=16492.6&xp=19091.7&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+ALM, AVM, 3
+ALMR, AVM, , https://catmaid.nemanode.org/?pid=130&zp=12200.0&yp=28129.7&xp=23119.8&tool=tracingtool&sid0=100&s0=0,
+ALML, AVM, , https://catmaid.nemanode.org/?pid=130&zp=13700.0&yp=30392.9&xp=30407.4&tool=tracingtool&sid0=100&s0=0,
+ALML, AVM, , https://catmaid.nemanode.org/?pid=130&zp=14100.0&yp=30965.2&xp=29988.4&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+ALM, CEP, 1
+ALMR, CEPVR, , https://catmaid.nemanode.org/?pid=130&zp=8650.0&yp=20484.5&xp=18581.5&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+ALM, PVR, 4
+ALMR, PVR, , https://catmaid.nemanode.org/?pid=130&zp=8100.0&yp=17828.2&xp=18964.6&tool=tracingtool&sid0=100&s0=0,
+ALML, PVR, , https://catmaid.nemanode.org/?pid=130&zp=9400.0&yp=25688.2&xp=31647.4&tool=tracingtool&sid0=100&s0=0,
+ALML, PVR, , https://catmaid.nemanode.org/?pid=130&zp=8900.0&yp=19942.9&xp=32217.2&tool=tracingtool&sid0=100&s0=0,
+ALML, PVR, , https://catmaid.nemanode.org/?pid=130&zp=9000.0&yp=19065.7&xp=32058.2&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+ALM, URX, 1
+ALMR, URXR, , https://catmaid.nemanode.org/?pid=130&zp=8050.0&yp=16916.6&xp=19006.9&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+ALN, SMB, 4
+ALNL, SMBDR, , https://catmaid.nemanode.org/?pid=130&zp=10950.0&yp=17038.5&xp=33526.2&tool=tracingtool&sid0=100&s0=0,
+ALNR, SMBDL, , https://catmaid.nemanode.org/?pid=130&zp=8100.0&yp=17647.9&xp=18317.9&tool=tracingtool&sid0=100&s0=0,
+ALNR, SMBDL, , https://catmaid.nemanode.org/?pid=130&zp=12350.0&yp=14823.8&xp=15342.8&tool=tracingtool&sid0=100&s0=0,
+ALNL, SMBDR, , https://catmaid.nemanode.org/?pid=130&zp=12100.0&yp=16475.3&xp=34017.9&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+AQR, AVK, 2
+AQR, AVKR, , https://catmaid.nemanode.org/?pid=130&zp=15750.0&yp=30689.7&xp=27652.7&tool=tracingtool&sid0=100&s0=0,
+AQR, AVKL, , https://catmaid.nemanode.org/?pid=130&zp=15700.0&yp=30712.8&xp=27371.2&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+AQR, PVP, 2
+AQR, PVPL, , https://catmaid.nemanode.org/?pid=130&zp=15700.0&yp=30506.1&xp=28097.2&tool=tracingtool&sid0=100&s0=0,
+AQR, PVPL, , https://catmaid.nemanode.org/?pid=130&zp=13250.0&yp=29928.3&xp=28974.4&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+AQR, RIG, 3
+AQR, RIGR, , https://catmaid.nemanode.org/?pid=130&zp=7100.0&yp=23247.1&xp=17693.2&tool=tracingtool&sid0=100&s0=0,
+AQR, RIGL, , https://catmaid.nemanode.org/?pid=130&zp=7350.0&yp=22369.2&xp=34877.3&tool=tracingtool&sid0=100&s0=0,
+AQR, RIGL, , https://catmaid.nemanode.org/?pid=130&zp=16150.0&yp=30896.4&xp=26926.7&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+ASH, ASH, 1
+ASHL, ASHR, , https://catmaid.nemanode.org/?pid=130&zp=9400.0&yp=13007.2&xp=24023.2&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+ASH, RMG, 2
+ASHR, RMGR, , https://catmaid.nemanode.org/?pid=130&zp=7950.0&yp=18889.9&xp=17250.8&tool=tracingtool&sid0=100&s0=0,
+ASHL, RMGL, , https://catmaid.nemanode.org/?pid=130&zp=8450.0&yp=19950.2&xp=34156.9&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+ASI, ASI, 1
+ASIL, ASIR, , https://catmaid.nemanode.org/?pid=130&zp=10600.0&yp=11792.0&xp=24062.7&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+ASK, ASK, 1
+ASKL, ASKR, , https://catmaid.nemanode.org/?pid=130&zp=11150.0&yp=13031.0&xp=24818.2&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+AUA, URX, 2
+AUAR, URXR, , https://catmaid.nemanode.org/?pid=130&zp=7950.0&yp=13342.3&xp=18725.5&tool=tracingtool&sid0=100&s0=0,
+AUAL, URXL, , https://catmaid.nemanode.org/?pid=130&zp=7850.0&yp=13956.8&xp=32596.9&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+AVA, AVA, 1
+AVAL, AVAR, , https://catmaid.nemanode.org/?pid=130&zp=6300.0&yp=13613.0&xp=26980.8&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+AVA, AVB, 1
+AVAR, AVBR, , https://catmaid.nemanode.org/?pid=130&zp=16200.0&yp=30133.2&xp=27454.0&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+AVA, AVE, 2
+AVAL, AVEL, , https://catmaid.nemanode.org/?pid=130&zp=13550.0&yp=29804.6&xp=25841.4&tool=tracingtool&sid0=100&s0=0,
+AVAR, AVER, , https://catmaid.nemanode.org/?pid=130&zp=7300.0&yp=18478.5&xp=16614.9&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+AVA, RIM, 10
+AVAL, RIMR, , https://catmaid.nemanode.org/?pid=130&zp=7800.0&yp=27366.5&xp=22205.4&tool=tracingtool&sid0=100&s0=0,
+AVAL, RIMR, , https://catmaid.nemanode.org/?pid=130&zp=6850.0&yp=25606.8&xp=20135.7&tool=tracingtool&sid0=100&s0=0,
+AVAR, RIML, , https://catmaid.nemanode.org/?pid=130&zp=6250.0&yp=17652.3&xp=33827.6&tool=tracingtool&sid0=100&s0=0,
+AVAR, RIML, , https://catmaid.nemanode.org/?pid=130&zp=11050.0&yp=28982.8&xp=27901.4&tool=tracingtool&sid0=100&s0=0,
+AVAL, RIMR, , https://catmaid.nemanode.org/?pid=130&zp=13300.0&yp=29420.3&xp=25512.9&tool=tracingtool&sid0=100&s0=0,
+AVAR, RIML, , https://catmaid.nemanode.org/?pid=130&zp=12100.0&yp=29428.2&xp=27668.7&tool=tracingtool&sid0=100&s0=0,
+AVAR, RIML, , https://catmaid.nemanode.org/?pid=130&zp=10100.0&yp=28252.7&xp=28700.2&tool=tracingtool&sid0=100&s0=0,
+AVAL, RIMR, , https://catmaid.nemanode.org/?pid=130&zp=6900.0&yp=13605.1&xp=20864.6&tool=tracingtool&sid0=100&s0=0,
+AVAR, RIML, , https://catmaid.nemanode.org/?pid=130&zp=6100.0&yp=23870.6&xp=33601.1&tool=tracingtool&sid0=100&s0=0,
+AVAR, RIML, , https://catmaid.nemanode.org/?pid=130&zp=6650.0&yp=25532.8&xp=32533.5&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+AVA, URY, 5
+AVAL, URYVL, , https://catmaid.nemanode.org/?pid=130&zp=8650.0&yp=25545.7&xp=32428.7&tool=tracingtool&sid0=100&s0=0,
+AVAL, URYDL, , https://catmaid.nemanode.org/?pid=130&zp=7650.0&yp=15028.1&xp=30330.3&tool=tracingtool&sid0=100&s0=0,
+AVAL, URYVR, , https://catmaid.nemanode.org/?pid=130&zp=8300.0&yp=28031.7&xp=22693.1&tool=tracingtool&sid0=100&s0=0,
+AVAL, URYDL, , https://catmaid.nemanode.org/?pid=130&zp=7300.0&yp=14985.7&xp=30584.8&tool=tracingtool&sid0=100&s0=0,
+AVAR, URYDR, , https://catmaid.nemanode.org/?pid=130&zp=7000.0&yp=14764.2&xp=20368.4&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+AVB, AVB, 3
+AVBL, AVBR, , https://catmaid.nemanode.org/?pid=130&zp=16650.0&yp=31867.4&xp=25377.1&tool=tracingtool&sid0=100&s0=0,
+AVBL, AVBR, , https://catmaid.nemanode.org/?pid=130&zp=8000.0&yp=13564.0&xp=25392.3&tool=tracingtool&sid0=100&s0=0,
+AVBL, AVBR, , https://catmaid.nemanode.org/?pid=130&zp=16450.0&yp=31819.7&xp=28091.1&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+AVB, DVA, 3
+AVBL, DVA, , https://catmaid.nemanode.org/?pid=130&zp=12000.0&yp=29132.8&xp=24182.6&tool=tracingtool&sid0=100&s0=0,
+AVBR, DVA, , https://catmaid.nemanode.org/?pid=130&zp=12450.0&yp=29297.6&xp=28761.1&tool=tracingtool&sid0=100&s0=0,
+AVBL, DVA, , https://catmaid.nemanode.org/?pid=130&zp=7050.0&yp=21345.4&xp=17112.2&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+AVB, RIB, 2
+AVBR, RIBL, , https://catmaid.nemanode.org/?pid=130&zp=7150.0&yp=20396.2&xp=35392.6&tool=tracingtool&sid0=100&s0=0,
+AVBL, RIBR, , https://catmaid.nemanode.org/?pid=130&zp=7050.0&yp=20632.5&xp=16309.2&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+AVB, SIB, 2
+AVBL, SIBVR, , https://catmaid.nemanode.org/?pid=130&zp=8750.0&yp=27290.9&xp=21756.5&tool=tracingtool&sid0=100&s0=0,
+AVBR, SIBVL, , https://catmaid.nemanode.org/?pid=130&zp=16700.0&yp=31614.5&xp=27733.6&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+AVD, AVM, 4
+AVDR, AVM, , https://catmaid.nemanode.org/?pid=130&zp=17700.0&yp=32235.9&xp=28381.4&tool=tracingtool&sid0=100&s0=0,
+AVDL, AVM, , https://catmaid.nemanode.org/?pid=130&zp=14100.0&yp=29770.2&xp=23720.2&tool=tracingtool&sid0=100&s0=0,
+AVDL, AVM, , https://catmaid.nemanode.org/?pid=130&zp=18300.0&yp=32519.5&xp=25461.2&tool=tracingtool&sid0=100&s0=0,
+AVDL, AVM, , https://catmaid.nemanode.org/?pid=130&zp=21450.0&yp=34131.6&xp=25538.9&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+AVE, OLQ, 1
+AVEL, OLQVR, , https://catmaid.nemanode.org/?pid=130&zp=3650.0&yp=25478.2&xp=21227.1&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+AVE, RIM, 10
+AVEL, RIMR, , https://catmaid.nemanode.org/?pid=130&zp=15900.0&yp=31631.0&xp=25573.8&tool=tracingtool&sid0=100&s0=0,
+AVER, RIML, , https://catmaid.nemanode.org/?pid=130&zp=16200.0&yp=31459.6&xp=28014.4&tool=tracingtool&sid0=100&s0=0,
+AVEL, RIML, , https://catmaid.nemanode.org/?pid=130&zp=6600.0&yp=15976.8&xp=32653.8&tool=tracingtool&sid0=100&s0=0,
+AVEL, RIML, , https://catmaid.nemanode.org/?pid=130&zp=5950.0&yp=12065.4&xp=25135.8&tool=tracingtool&sid0=100&s0=0,
+AVEL, RIML, , https://catmaid.nemanode.org/?pid=130&zp=8350.0&yp=29298.3&xp=24931.8&tool=tracingtool&sid0=100&s0=0,
+AVER, RIMR, , https://catmaid.nemanode.org/?pid=130&zp=8250.0&yp=28830.4&xp=29206.6&tool=tracingtool&sid0=100&s0=0,
+AVER, RIMR, , https://catmaid.nemanode.org/?pid=130&zp=5300.0&yp=12338.4&xp=27264.3&tool=tracingtool&sid0=100&s0=0,
+AVER, RIMR, , https://catmaid.nemanode.org/?pid=130&zp=8300.0&yp=28874.4&xp=29153.8&tool=tracingtool&sid0=100&s0=0,
+AVER, RIML, , https://catmaid.nemanode.org/?pid=130&zp=13600.0&yp=29844.3&xp=27775.9&tool=tracingtool&sid0=100&s0=0,
+AVEL, RIMR, , https://catmaid.nemanode.org/?pid=130&zp=13800.0&yp=30339.9&xp=25443.9&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+AVE, RIV, 4
+AVEL, RIVL, , https://catmaid.nemanode.org/?pid=130&zp=8800.0&yp=29486.6&xp=24691.3&tool=tracingtool&sid0=100&s0=0,
+AVEL, RIVL, , https://catmaid.nemanode.org/?pid=130&zp=8900.0&yp=29446.7&xp=24705.2&tool=tracingtool&sid0=100&s0=0,
+AVER, RIVR, , https://catmaid.nemanode.org/?pid=130&zp=9400.0&yp=29343.3&xp=28531.0&tool=tracingtool&sid0=100&s0=0,
+AVER, RIVR, , https://catmaid.nemanode.org/?pid=130&zp=8800.0&yp=29173.7&xp=28894.1&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+AVE, RMD, 4
+AVEL, RMDDR, , https://catmaid.nemanode.org/?pid=130&zp=3500.0&yp=22633.6&xp=19239.6&tool=tracingtool&sid0=100&s0=0,
+AVER, RMDVR, , https://catmaid.nemanode.org/?pid=130&zp=7200.0&yp=18053.0&xp=16961.2&tool=tracingtool&sid0=100&s0=0,
+AVER, RMDVL, , https://catmaid.nemanode.org/?pid=130&zp=3700.0&yp=18655.9&xp=33160.6&tool=tracingtool&sid0=100&s0=0,
+AVEL, RMDVR, , https://catmaid.nemanode.org/?pid=130&zp=3500.0&yp=17932.5&xp=17866.8&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+AVE, URY, 4
+AVEL, URYVR, , https://catmaid.nemanode.org/?pid=130&zp=8100.0&yp=28935.0&xp=22798.6&tool=tracingtool&sid0=100&s0=0,
+AVEL, URYVR, , https://catmaid.nemanode.org/?pid=130&zp=8150.0&yp=28901.8&xp=22785.2&tool=tracingtool&sid0=100&s0=0,
+AVER, URYVL, , https://catmaid.nemanode.org/?pid=130&zp=7450.0&yp=28272.7&xp=31183.7&tool=tracingtool&sid0=100&s0=0,
+AVEL, URYDR, , https://catmaid.nemanode.org/?pid=130&zp=4000.0&yp=13814.4&xp=19883.5&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+AVJ, RIS, 2
+AVJR, RIS, , https://catmaid.nemanode.org/?pid=130&zp=18450.0&yp=33526.6&xp=26595.5&tool=tracingtool&sid0=100&s0=0,
+AVJR, RIS, , https://catmaid.nemanode.org/?pid=130&zp=17900.0&yp=33121.1&xp=26837.8&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+AVK, PVP, 1
+AVKR, PVPL, , https://catmaid.nemanode.org/?pid=130&zp=16050.0&yp=30901.6&xp=27954.9&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+AVK, PVT, 8
+AVKL, PVT, , https://catmaid.nemanode.org/?pid=130&zp=16000.0&yp=31148.1&xp=26060.1&tool=tracingtool&sid0=100&s0=0,
+AVKR, PVT, , https://catmaid.nemanode.org/?pid=130&zp=21300.0&yp=32627.8&xp=25275.0&tool=tracingtool&sid0=100&s0=0,
+AVKR, PVT, , https://catmaid.nemanode.org/?pid=130&zp=18250.0&yp=31645.0&xp=25572.5&tool=tracingtool&sid0=100&s0=0,
+AVKL, PVT, , https://catmaid.nemanode.org/?pid=130&zp=10450.0&yp=29800.3&xp=27348.9&tool=tracingtool&sid0=100&s0=0,
+AVKL, PVT, , https://catmaid.nemanode.org/?pid=130&zp=5100.0&yp=15974.2&xp=17405.9&tool=tracingtool&sid0=100&s0=0,
+AVKL, PVT, , https://catmaid.nemanode.org/?pid=130&zp=16050.0&yp=31149.2&xp=26076.8&tool=tracingtool&sid0=100&s0=0,
+AVKL, PVT, , https://catmaid.nemanode.org/?pid=130&zp=13450.0&yp=30885.8&xp=27122.8&tool=tracingtool&sid0=100&s0=0,
+AVKL, PVT, , https://catmaid.nemanode.org/?pid=130&zp=6200.0&yp=27286.7&xp=31698.6&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+AVK, RIC, 6
+AVKL, RICR, , https://catmaid.nemanode.org/?pid=130&zp=6600.0&yp=27464.1&xp=21946.6&tool=tracingtool&sid0=100&s0=0,
+AVKR, RICL, , https://catmaid.nemanode.org/?pid=130&zp=5650.0&yp=13917.3&xp=19540.1&tool=tracingtool&sid0=100&s0=0,
+AVKR, RICR, , https://catmaid.nemanode.org/?pid=130&zp=6500.0&yp=27429.8&xp=21973.2&tool=tracingtool&sid0=100&s0=0,
+AVKR, RICL, , https://catmaid.nemanode.org/?pid=130&zp=6200.0&yp=26584.3&xp=32217.7&tool=tracingtool&sid0=100&s0=0,
+AVKR, RICR, , https://catmaid.nemanode.org/?pid=130&zp=5650.0&yp=14142.4&xp=30868.9&tool=tracingtool&sid0=100&s0=0,
+AVKL, RICR, , https://catmaid.nemanode.org/?pid=130&zp=5400.0&yp=14097.6&xp=30911.6&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+AVK, RIG, 5
+AVKR, RIGR, , https://catmaid.nemanode.org/?pid=130&zp=11350.0&yp=30766.5&xp=26526.5&tool=tracingtool&sid0=100&s0=0,
+AVKL, RIGL, , https://catmaid.nemanode.org/?pid=130&zp=6750.0&yp=11414.5&xp=25263.1&tool=tracingtool&sid0=100&s0=0,
+AVKL, RIGL, , https://catmaid.nemanode.org/?pid=130&zp=13750.0&yp=31140.2&xp=27080.4&tool=tracingtool&sid0=100&s0=0,
+AVKL, RIGL, , https://catmaid.nemanode.org/?pid=130&zp=14400.0&yp=31254.1&xp=27109.5&tool=tracingtool&sid0=100&s0=0,
+AVKL, RIGR, , https://catmaid.nemanode.org/?pid=130&zp=6750.0&yp=11577.5&xp=25211.4&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+AVK, RMG, 1
+AVKR, RMGL, , https://catmaid.nemanode.org/?pid=130&zp=4850.0&yp=22653.2&xp=34254.6&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+AVK, SMB, 5
+AVKL, SMBVR, , https://catmaid.nemanode.org/?pid=130&zp=11800.0&yp=30517.4&xp=25946.1&tool=tracingtool&sid0=100&s0=0,
+AVKL, SMBDR, , https://catmaid.nemanode.org/?pid=130&zp=12700.0&yp=30510.8&xp=26080.0&tool=tracingtool&sid0=100&s0=0,
+AVKR, SMBDR, , https://catmaid.nemanode.org/?pid=130&zp=19150.0&yp=31493.9&xp=25689.1&tool=tracingtool&sid0=100&s0=0,
+AVKR, SMBVR, , https://catmaid.nemanode.org/?pid=130&zp=11850.0&yp=30687.0&xp=26333.1&tool=tracingtool&sid0=100&s0=0,
+AVKL, SMBVL, , https://catmaid.nemanode.org/?pid=130&zp=11900.0&yp=30376.2&xp=27477.1&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+AVK, SMD, 1
+AVKL, SMDDL, , https://catmaid.nemanode.org/?pid=130&zp=7000.0&yp=28041.9&xp=30151.0&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+AWA, AWA, 1
+AWAL, AWAR, , https://catmaid.nemanode.org/?pid=130&zp=9600.0&yp=12710.3&xp=24261.8&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+AWB, AWB, 1
+AWBL, AWBR, , https://catmaid.nemanode.org/?pid=130&zp=9350.0&yp=12358.0&xp=25297.8&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+AWB, RMG, 1
+AWBR, RMGR, , https://catmaid.nemanode.org/?pid=130&zp=9000.0&yp=21432.2&xp=18307.3&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+BAG, BAG, 1
+BAGL, BAGR, , https://catmaid.nemanode.org/?pid=130&zp=8100.0&yp=16429.7&xp=16928.8&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+BAG, RIA, 1
+BAGR, RIAL, , https://catmaid.nemanode.org/?pid=130&zp=7300.0&yp=28977.3&xp=32055.1&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+BAG, RIB, 2
+BAGR, RIBR, , https://catmaid.nemanode.org/?pid=130&zp=7450.0&yp=14280.4&xp=18646.1&tool=tracingtool&sid0=100&s0=0,
+BAGL, RIBR, , https://catmaid.nemanode.org/?pid=130&zp=6450.0&yp=28394.5&xp=21415.3&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+BAG, RIG, 2
+BAGR, RIGL, , https://catmaid.nemanode.org/?pid=130&zp=6400.0&yp=25513.7&xp=34008.1&tool=tracingtool&sid0=100&s0=0,
+BAGL, RIGR, , https://catmaid.nemanode.org/?pid=130&zp=8150.0&yp=29928.8&xp=23214.7&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+BAG, RIR, 3
+BAGR, RIR, , https://catmaid.nemanode.org/?pid=130&zp=8300.0&yp=16514.3&xp=33552.3&tool=tracingtool&sid0=100&s0=0,
+BAGR, RIR, , https://catmaid.nemanode.org/?pid=130&zp=7650.0&yp=29609.7&xp=31310.8&tool=tracingtool&sid0=100&s0=0,
+BAGL, RIR, , https://catmaid.nemanode.org/?pid=130&zp=7950.0&yp=29613.4&xp=22772.1&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+BDU, BDU, 1
+BDUL, BDUR, , https://catmaid.nemanode.org/?pid=130&zp=8600.0&yp=14583.9&xp=21604.7&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+BWM01, URA, 1
+BWM-DR01, URADR, , https://catmaid.nemanode.org/?pid=130&zp=2550.0&yp=16094.5&xp=20675.8&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+BWM04, RMD, 3
+BWM-VR04, RMDVL, , https://catmaid.nemanode.org/?pid=130&zp=3650.0&yp=22213.4&xp=20416.2&tool=tracingtool&sid0=100&s0=0,
+BWM-VR04, RMDVL, , https://catmaid.nemanode.org/?pid=130&zp=3450.0&yp=22834.0&xp=20793.2&tool=tracingtool&sid0=100&s0=0,
+BWM-DR04, RMDDL, , https://catmaid.nemanode.org/?pid=130&zp=2950.0&yp=18760.3&xp=19327.1&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+BWM04, RMG, 1
+BWM-VL04, RMGL, , https://catmaid.nemanode.org/?pid=130&zp=7000.0&yp=22083.7&xp=31975.7&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+BWM05, RMD, 5
+BWM-VL05, RMDVL, , https://catmaid.nemanode.org/?pid=130&zp=7750.0&yp=27203.4&xp=26730.2&tool=tracingtool&sid0=100&s0=0,
+BWM-VL05, RMDVR, , https://catmaid.nemanode.org/?pid=130&zp=6950.0&yp=25469.2&xp=29844.8&tool=tracingtool&sid0=100&s0=0,
+BWM-DR05, RMDDR, , https://catmaid.nemanode.org/?pid=130&zp=3250.0&yp=13926.2&xp=24210.9&tool=tracingtool&sid0=100&s0=0,
+BWM-DR05, RMDDR, , https://catmaid.nemanode.org/?pid=130&zp=3250.0&yp=13938.4&xp=24822.4&tool=tracingtool&sid0=100&s0=0,
+BWM-DL05, RMDDR, , https://catmaid.nemanode.org/?pid=130&zp=3850.0&yp=14905.8&xp=28141.6&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+BWM06, RMD, 1
+BWM-DR06, RMDDL, , https://catmaid.nemanode.org/?pid=130&zp=2950.0&yp=17191.6&xp=19821.2&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+BWM06, RMG, 1
+BWM-DR06, RMGR, , https://catmaid.nemanode.org/?pid=130&zp=4450.0&yp=17354.7&xp=19291.9&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+CEP, OLQ, 4
+CEPVL, OLQVL, , https://catmaid.nemanode.org/?pid=130&zp=6850.0&yp=24628.7&xp=31333.4&tool=tracingtool&sid0=100&s0=0,
+CEPDR, OLQDR, , https://catmaid.nemanode.org/?pid=130&zp=6300.0&yp=16028.2&xp=20781.9&tool=tracingtool&sid0=100&s0=0,
+CEPDL, OLQDL, , https://catmaid.nemanode.org/?pid=130&zp=6250.0&yp=16375.3&xp=30117.8&tool=tracingtool&sid0=100&s0=0,
+CEPVR, OLQVR, , https://catmaid.nemanode.org/?pid=130&zp=7250.0&yp=25087.2&xp=22440.1&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+CEP, RIH, 3
+CEPDR, RIH, , https://catmaid.nemanode.org/?pid=130&zp=1700.0&yp=13669.8&xp=21992.9&tool=tracingtool&sid0=100&s0=0,
+CEPVR, RIH, , https://catmaid.nemanode.org/?pid=130&zp=7800.0&yp=30077.4&xp=22589.1&tool=tracingtool&sid0=100&s0=0,
+CEPDL, RIH, , https://catmaid.nemanode.org/?pid=130&zp=2950.0&yp=14387.8&xp=31024.1&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+CEP, URX, 1
+CEPVL, URXL, , https://catmaid.nemanode.org/?pid=130&zp=8250.0&yp=20750.4&xp=32746.6&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+IL1, IL1, 10
+IL1DL, IL1DL, , https://catmaid.nemanode.org/?pid=130&zp=5100.0&yp=15744.8&xp=29238.0&tool=tracingtool&sid0=100&s0=0,
+IL1VR, IL1VR, , https://catmaid.nemanode.org/?pid=130&zp=7050.0&yp=25504.2&xp=23211.5&tool=tracingtool&sid0=100&s0=0,
+IL1VL, IL1VL, , https://catmaid.nemanode.org/?pid=130&zp=6550.0&yp=24905.8&xp=30406.7&tool=tracingtool&sid0=100&s0=0,
+IL1VL, IL1VR, , https://catmaid.nemanode.org/?pid=130&zp=6000.0&yp=28175.9&xp=27197.5&tool=tracingtool&sid0=100&s0=0,
+IL1DR, IL1DR, , https://catmaid.nemanode.org/?pid=130&zp=5250.0&yp=15718.2&xp=21643.1&tool=tracingtool&sid0=100&s0=0,
+IL1R, IL1VR, , https://catmaid.nemanode.org/?pid=130&zp=2800.0&yp=22864.7&xp=19835.9&tool=tracingtool&sid0=100&s0=0,
+IL1L, IL1VL, , https://catmaid.nemanode.org/?pid=130&zp=3100.0&yp=23424.8&xp=32424.1&tool=tracingtool&sid0=100&s0=0,
+IL1DR, IL1R, , https://catmaid.nemanode.org/?pid=130&zp=2500.0&yp=16573.6&xp=19430.5&tool=tracingtool&sid0=100&s0=0,
+IL1DR, IL1VR, , https://catmaid.nemanode.org/?pid=130&zp=2650.0&yp=19762.2&xp=18460.4&tool=tracingtool&sid0=100&s0=0,
+IL1R, IL1VR, , https://catmaid.nemanode.org/?pid=130&zp=2750.0&yp=19764.3&xp=18544.8&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+IL1, OLL, 1
+IL1DR, OLLR, , https://catmaid.nemanode.org/?pid=130&zp=3750.0&yp=12657.8&xp=23475.0&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+IL1, RMD, 1
+IL1R, RMDL, , https://catmaid.nemanode.org/?pid=130&zp=5800.0&yp=21211.9&xp=18919.7&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+IL1, RME, 3
+IL1DL, RMEV, , https://catmaid.nemanode.org/?pid=130&zp=3600.0&yp=12934.8&xp=27151.8&tool=tracingtool&sid0=100&s0=0,
+IL1DR, RMEV, , https://catmaid.nemanode.org/?pid=130&zp=3550.0&yp=12776.8&xp=24134.1&tool=tracingtool&sid0=100&s0=0,
+IL1VL, RMED, , https://catmaid.nemanode.org/?pid=130&zp=5750.0&yp=27881.7&xp=27791.1&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+IL2, RMG, 4
+IL2L, RMGL, , https://catmaid.nemanode.org/?pid=130&zp=8100.0&yp=18998.3&xp=32974.5&tool=tracingtool&sid0=100&s0=0,
+IL2R, RMGR, , https://catmaid.nemanode.org/?pid=130&zp=7950.0&yp=18967.7&xp=17549.4&tool=tracingtool&sid0=100&s0=0,
+IL2L, RMGL, , https://catmaid.nemanode.org/?pid=130&zp=9000.0&yp=18584.3&xp=33022.1&tool=tracingtool&sid0=100&s0=0,
+IL2R, RMGR, , https://catmaid.nemanode.org/?pid=130&zp=8850.0&yp=18332.8&xp=17709.2&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+IL2, URX, 4
+IL2L, URXL, , https://catmaid.nemanode.org/?pid=130&zp=8100.0&yp=19295.1&xp=33040.8&tool=tracingtool&sid0=100&s0=0,
+IL2L, URXL, , https://catmaid.nemanode.org/?pid=130&zp=7250.0&yp=19820.7&xp=32845.4&tool=tracingtool&sid0=100&s0=0,
+IL2L, URXL, , https://catmaid.nemanode.org/?pid=130&zp=8150.0&yp=19271.2&xp=32569.1&tool=tracingtool&sid0=100&s0=0,
+IL2R, URXR, , https://catmaid.nemanode.org/?pid=130&zp=7950.0&yp=19131.9&xp=17872.8&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+OLL, OLL, 2
+OLLL, OLLR, , https://catmaid.nemanode.org/?pid=130&zp=6450.0&yp=28491.6&xp=26737.2&tool=tracingtool&sid0=100&s0=0,
+OLLL, OLLR, , https://catmaid.nemanode.org/?pid=130&zp=4050.0&yp=12490.8&xp=24058.0&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+OLL, OLQ, 3
+OLLL, OLQDL, , https://catmaid.nemanode.org/?pid=130&zp=3150.0&yp=15551.5&xp=31790.7&tool=tracingtool&sid0=100&s0=0,
+OLLR, OLQDR, , https://catmaid.nemanode.org/?pid=130&zp=3000.0&yp=15416.3&xp=19107.8&tool=tracingtool&sid0=100&s0=0,
+OLLR, OLQVR, , https://catmaid.nemanode.org/?pid=130&zp=3350.0&yp=25083.7&xp=21039.7&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+OLL, RIG, 2
+OLLR, RIGR, , https://catmaid.nemanode.org/?pid=130&zp=5050.0&yp=17451.5&xp=16563.8&tool=tracingtool&sid0=100&s0=0,
+OLLL, RIGL, , https://catmaid.nemanode.org/?pid=130&zp=5200.0&yp=18265.2&xp=34753.4&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+OLQ, RIB, 2
+OLQDR, RIBR, , https://catmaid.nemanode.org/?pid=130&zp=3050.0&yp=15246.5&xp=18797.0&tool=tracingtool&sid0=100&s0=0,
+OLQVR, RIBR, , https://catmaid.nemanode.org/?pid=130&zp=3450.0&yp=25637.4&xp=21095.5&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+OLQ, RIG, 5
+OLQDL, RIGL, , https://catmaid.nemanode.org/?pid=130&zp=6950.0&yp=12803.6&xp=30914.2&tool=tracingtool&sid0=100&s0=0,
+OLQVL, RIGL, , https://catmaid.nemanode.org/?pid=130&zp=6950.0&yp=25226.8&xp=35014.5&tool=tracingtool&sid0=100&s0=0,
+OLQDR, RIGR, , https://catmaid.nemanode.org/?pid=130&zp=7300.0&yp=12360.5&xp=20450.6&tool=tracingtool&sid0=100&s0=0,
+OLQVR, RIGR, , https://catmaid.nemanode.org/?pid=130&zp=5800.0&yp=24789.2&xp=18571.7&tool=tracingtool&sid0=100&s0=0,
+OLQVL, RIGL, , https://catmaid.nemanode.org/?pid=130&zp=5700.0&yp=24762.7&xp=34689.1&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+OLQ, RIH, 1
+OLQDR, RIH, , https://catmaid.nemanode.org/?pid=130&zp=2350.0&yp=17022.1&xp=19069.9&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+OLQ, RMD, 9
+OLQDR, RMDVR, , https://catmaid.nemanode.org/?pid=130&zp=4250.0&yp=14894.1&xp=21017.7&tool=tracingtool&sid0=100&s0=0,
+OLQDL, RMDVL, , https://catmaid.nemanode.org/?pid=130&zp=4200.0&yp=15220.0&xp=30022.4&tool=tracingtool&sid0=100&s0=0,
+OLQDR, RMDDR, , https://catmaid.nemanode.org/?pid=130&zp=5750.0&yp=15389.7&xp=20773.9&tool=tracingtool&sid0=100&s0=0,
+OLQDL, RMDDR, , https://catmaid.nemanode.org/?pid=130&zp=5100.0&yp=16089.2&xp=29773.3&tool=tracingtool&sid0=100&s0=0,
+OLQVR, RMDDR, , https://catmaid.nemanode.org/?pid=130&zp=5450.0&yp=25578.8&xp=22758.7&tool=tracingtool&sid0=100&s0=0,
+OLQVR, RMDVL, , https://catmaid.nemanode.org/?pid=130&zp=7800.0&yp=26034.7&xp=23352.4&tool=tracingtool&sid0=100&s0=0,
+OLQVL, RMDDL, , https://catmaid.nemanode.org/?pid=130&zp=5150.0&yp=25069.9&xp=30957.8&tool=tracingtool&sid0=100&s0=0,
+OLQVL, RMDVR, , https://catmaid.nemanode.org/?pid=130&zp=6200.0&yp=24547.8&xp=31004.7&tool=tracingtool&sid0=100&s0=0,
+OLQVL, RMDDL, , https://catmaid.nemanode.org/?pid=130&zp=5100.0&yp=25148.2&xp=30968.6&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+OLQ, RMH, 1
+OLQVL, RMHL, , https://catmaid.nemanode.org/?pid=130&zp=7200.0&yp=25080.7&xp=31604.4&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+OLQ, URB, 7
+OLQDR, URBR, , https://catmaid.nemanode.org/?pid=130&zp=6300.0&yp=16227.0&xp=20243.9&tool=tracingtool&sid0=100&s0=0,
+OLQDR, URBR, , https://catmaid.nemanode.org/?pid=130&zp=6500.0&yp=16701.3&xp=19130.9&tool=tracingtool&sid0=100&s0=0,
+OLQDL, URBL, , https://catmaid.nemanode.org/?pid=130&zp=6900.0&yp=16526.6&xp=30995.0&tool=tracingtool&sid0=100&s0=0,
+OLQDL, URBL, , https://catmaid.nemanode.org/?pid=130&zp=6600.0&yp=16987.7&xp=31641.6&tool=tracingtool&sid0=100&s0=0,
+OLQVR, URBR, , https://catmaid.nemanode.org/?pid=130&zp=8550.0&yp=25949.8&xp=21020.3&tool=tracingtool&sid0=100&s0=0,
+OLQVL, URBL, , https://catmaid.nemanode.org/?pid=130&zp=7200.0&yp=24789.2&xp=31652.1&tool=tracingtool&sid0=100&s0=0,
+OLQVL, URBL, , https://catmaid.nemanode.org/?pid=130&zp=8150.0&yp=25082.2&xp=32407.2&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+PVP, PVP, 1
+PVPL, PVPR, , https://catmaid.nemanode.org/?pid=130&zp=8050.0&yp=12904.2&xp=24817.3&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+PVT, RIB, 1
+PVT, RIBL, , https://catmaid.nemanode.org/?pid=130&zp=5700.0&yp=14430.3&xp=32044.2&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+RIA, RIA, 1
+RIAL, RIAR, , https://catmaid.nemanode.org/?pid=130&zp=7200.0&yp=27434.2&xp=29259.9&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+RIA, RMD, 4
+RIAR, RMDDR, , https://catmaid.nemanode.org/?pid=130&zp=10500.0&yp=28440.2&xp=25832.7&tool=tracingtool&sid0=100&s0=0,
+RIAR, RMDDL, , https://catmaid.nemanode.org/?pid=130&zp=8350.0&yp=27314.8&xp=28732.7&tool=tracingtool&sid0=100&s0=0,
+RIAL, RMDDL, , https://catmaid.nemanode.org/?pid=130&zp=7300.0&yp=27359.8&xp=28899.6&tool=tracingtool&sid0=100&s0=0,
+RIAR, RMDVR, , https://catmaid.nemanode.org/?pid=130&zp=4650.0&yp=19526.6&xp=17891.0&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+RIA, SMD, 2
+RIAL, SMDDL, , https://catmaid.nemanode.org/?pid=130&zp=11250.0&yp=28486.2&xp=27537.4&tool=tracingtool&sid0=100&s0=0,
+RIAR, SMDDR, , https://catmaid.nemanode.org/?pid=130&zp=12150.0&yp=28582.8&xp=25542.0&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+RIB, RIB, 5
+RIBL, RIBR, , https://catmaid.nemanode.org/?pid=130&zp=7650.0&yp=28765.7&xp=26919.2&tool=tracingtool&sid0=100&s0=0,
+RIBL, RIBR, , https://catmaid.nemanode.org/?pid=130&zp=8450.0&yp=11406.8&xp=24713.9&tool=tracingtool&sid0=100&s0=0,
+RIBL, RIBL, , https://catmaid.nemanode.org/?pid=130&zp=3900.0&yp=19042.8&xp=33793.4&tool=tracingtool&sid0=100&s0=0,
+RIBL, RIBR, , https://catmaid.nemanode.org/?pid=130&zp=4850.0&yp=12288.0&xp=24783.3&tool=tracingtool&sid0=100&s0=0,
+RIBR, RIBR, , https://catmaid.nemanode.org/?pid=130&zp=3200.0&yp=22354.2&xp=18516.9&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+RIB, RIG, 3
+RIBL, RIGL, , https://catmaid.nemanode.org/?pid=130&zp=6950.0&yp=25126.1&xp=35001.2&tool=tracingtool&sid0=100&s0=0,
+RIBL, RIGL, , https://catmaid.nemanode.org/?pid=130&zp=6300.0&yp=14326.8&xp=32315.0&tool=tracingtool&sid0=100&s0=0,
+RIBR, RIGR, , https://catmaid.nemanode.org/?pid=130&zp=6550.0&yp=13692.7&xp=18958.2&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+RIB, SIA, 2
+RIBL, SIADL, , https://catmaid.nemanode.org/?pid=130&zp=6700.0&yp=18820.2&xp=34948.8&tool=tracingtool&sid0=100&s0=0,
+RIBR, SIADR, , https://catmaid.nemanode.org/?pid=130&zp=6550.0&yp=19111.8&xp=16164.6&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+RIB, SIB, 13
+RIBR, SIBDR, , https://catmaid.nemanode.org/?pid=130&zp=7400.0&yp=16252.2&xp=16661.2&tool=tracingtool&sid0=100&s0=0,
+RIBR, SIBVL, , https://catmaid.nemanode.org/?pid=130&zp=7450.0&yp=14876.7&xp=18113.4&tool=tracingtool&sid0=100&s0=0,
+RIBL, SIBVL, , https://catmaid.nemanode.org/?pid=130&zp=7650.0&yp=15874.2&xp=33439.4&tool=tracingtool&sid0=100&s0=0,
+RIBR, SIBVR, , https://catmaid.nemanode.org/?pid=130&zp=7450.0&yp=15207.9&xp=17660.2&tool=tracingtool&sid0=100&s0=0,
+RIBL, SIBDL, , https://catmaid.nemanode.org/?pid=130&zp=7000.0&yp=18859.8&xp=35282.8&tool=tracingtool&sid0=100&s0=0,
+RIBR, SIBDR, , https://catmaid.nemanode.org/?pid=130&zp=16950.0&yp=33916.1&xp=26224.3&tool=tracingtool&sid0=100&s0=0,
+RIBL, SIBDL, , https://catmaid.nemanode.org/?pid=130&zp=15900.0&yp=33775.9&xp=28536.4&tool=tracingtool&sid0=100&s0=0,
+RIBL, SIBVL, , https://catmaid.nemanode.org/?pid=130&zp=7150.0&yp=16811.7&xp=34280.9&tool=tracingtool&sid0=100&s0=0,
+RIBL, SIBDL, , https://catmaid.nemanode.org/?pid=130&zp=7300.0&yp=16779.8&xp=34286.2&tool=tracingtool&sid0=100&s0=0,
+RIBL, SIBVR, , https://catmaid.nemanode.org/?pid=130&zp=7500.0&yp=15477.8&xp=33153.4&tool=tracingtool&sid0=100&s0=0,
+RIBR, SIBVL, , https://catmaid.nemanode.org/?pid=130&zp=6950.0&yp=16520.4&xp=16498.6&tool=tracingtool&sid0=100&s0=0,
+RIBR, SIBDR, , https://catmaid.nemanode.org/?pid=130&zp=7350.0&yp=16371.8&xp=16602.4&tool=tracingtool&sid0=100&s0=0,
+RIBR, SIBVR, , https://catmaid.nemanode.org/?pid=130&zp=6950.0&yp=16912.7&xp=16291.8&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+RIB, SMD, 3
+RIBL, SMDDL, , https://catmaid.nemanode.org/?pid=130&zp=7100.0&yp=28366.1&xp=27809.6&tool=tracingtool&sid0=100&s0=0,
+RIBR, SMDVL, , https://catmaid.nemanode.org/?pid=130&zp=7600.0&yp=28653.2&xp=25648.2&tool=tracingtool&sid0=100&s0=0,
+RIBL, SMDVL, , https://catmaid.nemanode.org/?pid=130&zp=7700.0&yp=16468.9&xp=33906.1&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+RIC, RIC, 1
+RICL, RICR, , https://catmaid.nemanode.org/?pid=130&zp=6600.0&yp=14303.0&xp=24020.2&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+RIG, RIG, 3
+RIGL, RIGR, , https://catmaid.nemanode.org/?pid=130&zp=12500.0&yp=30842.1&xp=26867.1&tool=tracingtool&sid0=100&s0=0,
+RIGL, RIGR, , https://catmaid.nemanode.org/?pid=130&zp=7000.0&yp=11268.9&xp=25243.2&tool=tracingtool&sid0=100&s0=0,
+RIGL, RIGR, , https://catmaid.nemanode.org/?pid=130&zp=12150.0&yp=30736.1&xp=26962.4&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+RIG, URY, 8
+RIGR, URYDR, , https://catmaid.nemanode.org/?pid=130&zp=6950.0&yp=13084.0&xp=19870.2&tool=tracingtool&sid0=100&s0=0,
+RIGR, URYVR, , https://catmaid.nemanode.org/?pid=130&zp=7650.0&yp=28614.7&xp=22748.1&tool=tracingtool&sid0=100&s0=0,
+RIGR, URYVR, , https://catmaid.nemanode.org/?pid=130&zp=8050.0&yp=26441.7&xp=19795.9&tool=tracingtool&sid0=100&s0=0,
+RIGL, URYDL, , https://catmaid.nemanode.org/?pid=130&zp=6300.0&yp=14008.8&xp=31700.2&tool=tracingtool&sid0=100&s0=0,
+RIGL, URYVL, , https://catmaid.nemanode.org/?pid=130&zp=7050.0&yp=28188.1&xp=31247.6&tool=tracingtool&sid0=100&s0=0,
+RIGR, URYDR, , https://catmaid.nemanode.org/?pid=130&zp=6600.0&yp=13311.0&xp=19705.6&tool=tracingtool&sid0=100&s0=0,
+RIGR, URYVR, , https://catmaid.nemanode.org/?pid=130&zp=7850.0&yp=25759.1&xp=19186.6&tool=tracingtool&sid0=100&s0=0,
+RIGL, URYVL, , https://catmaid.nemanode.org/?pid=130&zp=7900.0&yp=25545.9&xp=33469.9&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+RIM, RIS, 2
+RIML, RIS, , https://catmaid.nemanode.org/?pid=130&zp=17850.0&yp=33692.1&xp=26721.2&tool=tracingtool&sid0=100&s0=0,
+RIML, RIS, , https://catmaid.nemanode.org/?pid=130&zp=17650.0&yp=33543.8&xp=26882.8&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+RIM, SAA, 1
+RIML, SAAVR, , https://catmaid.nemanode.org/?pid=130&zp=5600.0&yp=16502.2&xp=17766.2&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+RIP, RIP, 3
+RIPL, RIPR, , https://catmaid.nemanode.org/?pid=130&zp=950.0&yp=14196.8&xp=27533.8&tool=tracingtool&sid0=100&s0=0,
+RIPL, RIPR, , https://catmaid.nemanode.org/?pid=130&zp=300.0&yp=15402.7&xp=30130.8&tool=tracingtool&sid0=100&s0=0,
+RIPL, RIPR, , https://catmaid.nemanode.org/?pid=130&zp=1000.0&yp=14027.2&xp=25647.1&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+RIP, RME, 1
+RIPR, RMEV, , https://catmaid.nemanode.org/?pid=130&zp=1750.0&yp=15148.2&xp=21295.8&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+RIS, SMD, 1
+RIS, SMDVL, , https://catmaid.nemanode.org/?pid=130&zp=7950.0&yp=28840.8&xp=27282.4&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+RIV, RIV, 1
+RIVL, RIVR, , https://catmaid.nemanode.org/?pid=130&zp=13150.0&yp=27863.4&xp=26822.0&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+RIV, SMD, 4
+RIVL, SMDVL, , https://catmaid.nemanode.org/?pid=130&zp=10500.0&yp=17173.8&xp=34677.9&tool=tracingtool&sid0=100&s0=0,
+RIVR, SMDVR, , https://catmaid.nemanode.org/?pid=130&zp=8850.0&yp=16740.4&xp=16086.0&tool=tracingtool&sid0=100&s0=0,
+RIVR, SMDVR, , https://catmaid.nemanode.org/?pid=130&zp=10800.0&yp=28061.3&xp=27030.4&tool=tracingtool&sid0=100&s0=0,
+RIVL, SMDVL, , https://catmaid.nemanode.org/?pid=130&zp=13150.0&yp=28165.6&xp=25547.3&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+RMD, RMD, 13
+RMDR, RMDVR, , https://catmaid.nemanode.org/?pid=130&zp=5100.0&yp=23815.7&xp=31946.2&tool=tracingtool&sid0=100&s0=0,
+RMDDL, RMDVR, , https://catmaid.nemanode.org/?pid=130&zp=3200.0&yp=16223.8&xp=19616.0&tool=tracingtool&sid0=100&s0=0,
+RMDDL, RMDVR, , https://catmaid.nemanode.org/?pid=130&zp=6300.0&yp=27054.8&xp=28988.8&tool=tracingtool&sid0=100&s0=0,
+RMDDR, RMDDR, , https://catmaid.nemanode.org/?pid=130&zp=3500.0&yp=18127.8&xp=31816.9&tool=tracingtool&sid0=100&s0=0,
+RMDDR, RMDR, , https://catmaid.nemanode.org/?pid=130&zp=4950.0&yp=18890.9&xp=32802.8&tool=tracingtool&sid0=100&s0=0,
+RMDDR, RMDL, , https://catmaid.nemanode.org/?pid=130&zp=5200.0&yp=18737.2&xp=17989.2&tool=tracingtool&sid0=100&s0=0,
+RMDL, RMDVL, , https://catmaid.nemanode.org/?pid=130&zp=9400.0&yp=27284.4&xp=24475.8&tool=tracingtool&sid0=100&s0=0,
+RMDDR, RMDVL, , https://catmaid.nemanode.org/?pid=130&zp=7900.0&yp=27221.9&xp=24966.2&tool=tracingtool&sid0=100&s0=0,
+RMDDL, RMDDR, , https://catmaid.nemanode.org/?pid=130&zp=5250.0&yp=19118.2&xp=32696.2&tool=tracingtool&sid0=100&s0=0,
+RMDDL, RMDL, , https://catmaid.nemanode.org/?pid=130&zp=6250.0&yp=19084.3&xp=18309.9&tool=tracingtool&sid0=100&s0=0,
+RMDDL, RMDVL, , https://catmaid.nemanode.org/?pid=130&zp=5250.0&yp=18861.1&xp=18248.4&tool=tracingtool&sid0=100&s0=0,
+RMDDR, RMDR, , https://catmaid.nemanode.org/?pid=130&zp=6600.0&yp=19230.2&xp=32373.4&tool=tracingtool&sid0=100&s0=0,
+RMDDR, RMDVR, , https://catmaid.nemanode.org/?pid=130&zp=5550.0&yp=19182.4&xp=32574.8&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+RMD, RME, 1
+RMDR, RMER, , https://catmaid.nemanode.org/?pid=130&zp=6250.0&yp=19634.8&xp=32041.8&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+RMD, RMF, 2
+RMDR, RMFR, , https://catmaid.nemanode.org/?pid=130&zp=4450.0&yp=22621.3&xp=34130.1&tool=tracingtool&sid0=100&s0=0,
+RMDR, RMFR, , https://catmaid.nemanode.org/?pid=130&zp=4900.0&yp=18664.1&xp=33443.4&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+RMD, RMH, 3
+RMDL, RMHL, , https://catmaid.nemanode.org/?pid=130&zp=5600.0&yp=19361.2&xp=18754.1&tool=tracingtool&sid0=100&s0=0,
+RMDR, RMHR, , https://catmaid.nemanode.org/?pid=130&zp=5100.0&yp=22053.9&xp=33668.6&tool=tracingtool&sid0=100&s0=0,
+RMDR, RMHR, , https://catmaid.nemanode.org/?pid=130&zp=5300.0&yp=19054.1&xp=33271.1&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+RMD, SAA, 6
+RMDVR, SAAVR, , https://catmaid.nemanode.org/?pid=130&zp=12700.0&yp=28268.9&xp=28035.7&tool=tracingtool&sid0=100&s0=0,
+RMDDL, SAADL, , https://catmaid.nemanode.org/?pid=130&zp=8050.0&yp=18220.3&xp=17920.4&tool=tracingtool&sid0=100&s0=0,
+RMDDR, SAADR, , https://catmaid.nemanode.org/?pid=130&zp=8700.0&yp=18149.8&xp=32492.2&tool=tracingtool&sid0=100&s0=0,
+RMDDL, SAADL, , https://catmaid.nemanode.org/?pid=130&zp=9650.0&yp=17271.1&xp=18068.2&tool=tracingtool&sid0=100&s0=0,
+RMDVL, SAAVL, , https://catmaid.nemanode.org/?pid=130&zp=13450.0&yp=28800.2&xp=25107.4&tool=tracingtool&sid0=100&s0=0,
+RMDVR, SAAVR, , https://catmaid.nemanode.org/?pid=130&zp=11700.0&yp=28370.9&xp=28038.3&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+RMD, SIA, 6
+RMDVL, SIAVR, , https://catmaid.nemanode.org/?pid=130&zp=9050.0&yp=27243.2&xp=24263.9&tool=tracingtool&sid0=100&s0=0,
+RMDDR, SIADR, , https://catmaid.nemanode.org/?pid=130&zp=8650.0&yp=17752.2&xp=32380.8&tool=tracingtool&sid0=100&s0=0,
+RMDDL, SIADL, , https://catmaid.nemanode.org/?pid=130&zp=9400.0&yp=17048.4&xp=18211.3&tool=tracingtool&sid0=100&s0=0,
+RMDDR, SIAVL, , https://catmaid.nemanode.org/?pid=130&zp=6850.0&yp=19081.8&xp=32680.8&tool=tracingtool&sid0=100&s0=0,
+RMDDL, SIAVR, , https://catmaid.nemanode.org/?pid=130&zp=7250.0&yp=18440.1&xp=17883.6&tool=tracingtool&sid0=100&s0=0,
+RMDDL, SIAVR, , https://catmaid.nemanode.org/?pid=130&zp=6600.0&yp=18975.3&xp=17936.6&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+RMD, SIB, 5
+RMDDL, SIBDL, , https://catmaid.nemanode.org/?pid=130&zp=8050.0&yp=18034.8&xp=17676.7&tool=tracingtool&sid0=100&s0=0,
+RMDDR, SIBVR, , https://catmaid.nemanode.org/?pid=130&zp=5950.0&yp=16480.8&xp=19515.2&tool=tracingtool&sid0=100&s0=0,
+RMDVL, SIBDR, , https://catmaid.nemanode.org/?pid=130&zp=9250.0&yp=27070.4&xp=24295.7&tool=tracingtool&sid0=100&s0=0,
+RMDDR, SIBDR, , https://catmaid.nemanode.org/?pid=130&zp=9050.0&yp=17503.2&xp=32545.2&tool=tracingtool&sid0=100&s0=0,
+RMDDL, SIBVR, , https://catmaid.nemanode.org/?pid=130&zp=6150.0&yp=18714.4&xp=17982.9&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+RMD, SMD, 13
+RMDVL, SMDVL, , https://catmaid.nemanode.org/?pid=130&zp=13700.0&yp=28486.2&xp=24948.4&tool=tracingtool&sid0=100&s0=0,
+RMDL, SMDVL, , https://catmaid.nemanode.org/?pid=130&zp=5700.0&yp=26262.7&xp=21767.8&tool=tracingtool&sid0=100&s0=0,
+RMDDL, SMDVR, , https://catmaid.nemanode.org/?pid=130&zp=10550.0&yp=28066.7&xp=27218.6&tool=tracingtool&sid0=100&s0=0,
+RMDDL, SMDDL, , https://catmaid.nemanode.org/?pid=130&zp=7900.0&yp=18003.1&xp=17883.3&tool=tracingtool&sid0=100&s0=0,
+RMDL, SMDDL, , https://catmaid.nemanode.org/?pid=130&zp=5100.0&yp=14903.8&xp=19716.4&tool=tracingtool&sid0=100&s0=0,
+RMDDR, SMDVL, , https://catmaid.nemanode.org/?pid=130&zp=10700.0&yp=28401.1&xp=26111.2&tool=tracingtool&sid0=100&s0=0,
+RMDDL, SMDDL, , https://catmaid.nemanode.org/?pid=130&zp=11350.0&yp=28207.7&xp=27391.2&tool=tracingtool&sid0=100&s0=0,
+RMDR, SMDVR, , https://catmaid.nemanode.org/?pid=130&zp=5200.0&yp=25721.3&xp=32462.9&tool=tracingtool&sid0=100&s0=0,
+RMDDR, SMDDR, , https://catmaid.nemanode.org/?pid=130&zp=8650.0&yp=17879.4&xp=32603.4&tool=tracingtool&sid0=100&s0=0,
+RMDDL, SMDDL, , https://catmaid.nemanode.org/?pid=130&zp=9000.0&yp=17440.7&xp=18110.7&tool=tracingtool&sid0=100&s0=0,
+RMDDL, SMDDL, , https://catmaid.nemanode.org/?pid=130&zp=9400.0&yp=17165.1&xp=17983.4&tool=tracingtool&sid0=100&s0=0,
+RMDDR, SMDDR, , https://catmaid.nemanode.org/?pid=130&zp=9050.0&yp=17677.2&xp=32728.6&tool=tracingtool&sid0=100&s0=0,
+RMDVR, SMDVR, , https://catmaid.nemanode.org/?pid=130&zp=12550.0&yp=28243.8&xp=28202.7&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+RME, RME, 3
+RMED, RMEL, , https://catmaid.nemanode.org/?pid=130&zp=4150.0&yp=25562.8&xp=23980.5&tool=tracingtool&sid0=100&s0=0,
+RMEL, RMEV, , https://catmaid.nemanode.org/?pid=130&zp=1700.0&yp=15166.8&xp=21780.9&tool=tracingtool&sid0=100&s0=0,
+RMER, RMEV, , https://catmaid.nemanode.org/?pid=130&zp=2100.0&yp=15477.0&xp=29110.9&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+RMG, RMH, 2
+RMGL, RMHL, , https://catmaid.nemanode.org/?pid=130&zp=6250.0&yp=24197.7&xp=32796.9&tool=tracingtool&sid0=100&s0=0,
+RMGL, RMHL, , https://catmaid.nemanode.org/?pid=130&zp=7100.0&yp=25384.6&xp=32033.2&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+RMG, URX, 8
+RMGR, URXR, , https://catmaid.nemanode.org/?pid=130&zp=7000.0&yp=16937.6&xp=18312.8&tool=tracingtool&sid0=100&s0=0,
+RMGR, URXR, , https://catmaid.nemanode.org/?pid=130&zp=7200.0&yp=17003.3&xp=18214.1&tool=tracingtool&sid0=100&s0=0,
+RMGL, URXL, , https://catmaid.nemanode.org/?pid=130&zp=8050.0&yp=18170.2&xp=33015.6&tool=tracingtool&sid0=100&s0=0,
+RMGR, URXR, , https://catmaid.nemanode.org/?pid=130&zp=7150.0&yp=17411.4&xp=18134.6&tool=tracingtool&sid0=100&s0=0,
+RMGL, URXL, , https://catmaid.nemanode.org/?pid=130&zp=8500.0&yp=19874.3&xp=33641.8&tool=tracingtool&sid0=100&s0=0,
+RMGL, URXL, , https://catmaid.nemanode.org/?pid=130&zp=7000.0&yp=19001.6&xp=33642.4&tool=tracingtool&sid0=100&s0=0,
+RMGR, URXR, , https://catmaid.nemanode.org/?pid=130&zp=8800.0&yp=21047.2&xp=18299.2&tool=tracingtool&sid0=100&s0=0,
+RMGR, URXR, , https://catmaid.nemanode.org/?pid=130&zp=8150.0&yp=17251.7&xp=18127.8&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+SAA, SMB, 12
+SAADL, SMBDL, , https://catmaid.nemanode.org/?pid=130&zp=13700.0&yp=13298.0&xp=13758.8&tool=tracingtool&sid0=100&s0=0,
+SAADL, SMBDL, , https://catmaid.nemanode.org/?pid=130&zp=12600.0&yp=14313.5&xp=14798.2&tool=tracingtool&sid0=100&s0=0,
+SAADR, SMBDR, , https://catmaid.nemanode.org/?pid=130&zp=9550.0&yp=17530.8&xp=32542.4&tool=tracingtool&sid0=100&s0=0,
+SAAVL, SMBVR, , https://catmaid.nemanode.org/?pid=130&zp=16950.0&yp=30115.9&xp=24879.6&tool=tracingtool&sid0=100&s0=0,
+SAAVL, SMBVR, , https://catmaid.nemanode.org/?pid=130&zp=19100.0&yp=33518.6&xp=24762.9&tool=tracingtool&sid0=100&s0=0,
+SAADL, SMBDL, , https://catmaid.nemanode.org/?pid=130&zp=11900.0&yp=14774.7&xp=15450.2&tool=tracingtool&sid0=100&s0=0,
+SAAVR, SMBVL, , https://catmaid.nemanode.org/?pid=130&zp=16150.0&yp=29623.1&xp=28324.6&tool=tracingtool&sid0=100&s0=0,
+SAAVR, SMBVL, , https://catmaid.nemanode.org/?pid=130&zp=15000.0&yp=28999.3&xp=28445.6&tool=tracingtool&sid0=100&s0=0,
+SAADL, SMBVR, , https://catmaid.nemanode.org/?pid=130&zp=7750.0&yp=18586.1&xp=17703.2&tool=tracingtool&sid0=100&s0=0,
+SAADL, SMBDL, , https://catmaid.nemanode.org/?pid=130&zp=9600.0&yp=17488.3&xp=17956.9&tool=tracingtool&sid0=100&s0=0,
+SAADL, SMBDL, , https://catmaid.nemanode.org/?pid=130&zp=11000.0&yp=15481.5&xp=16390.3&tool=tracingtool&sid0=100&s0=0,
+SAADR, SMBDR, , https://catmaid.nemanode.org/?pid=130&zp=11650.0&yp=16292.7&xp=34031.9&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+SDQ, SDQ, 2
+SDQL, SDQL, , https://catmaid.nemanode.org/?pid=130&zp=11500.0&yp=28437.2&xp=28980.3&tool=tracingtool&sid0=100&s0=0,
+SDQL, SDQR, , https://catmaid.nemanode.org/?pid=130&zp=11600.0&yp=28267.2&xp=29114.8&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+SIB, SIB, 5
+SIBDR, SIBVR, , https://catmaid.nemanode.org/?pid=130&zp=14350.0&yp=31499.2&xp=25897.2&tool=tracingtool&sid0=100&s0=0,
+SIBDR, SIBVR, , https://catmaid.nemanode.org/?pid=130&zp=8800.0&yp=27502.7&xp=22144.6&tool=tracingtool&sid0=100&s0=0,
+SIBDR, SIBVR, , https://catmaid.nemanode.org/?pid=130&zp=15650.0&yp=32054.4&xp=26246.9&tool=tracingtool&sid0=100&s0=0,
+SIBDL, SIBVL, , https://catmaid.nemanode.org/?pid=130&zp=13550.0&yp=31260.8&xp=28107.2&tool=tracingtool&sid0=100&s0=0,
+SIBDL, SIBVL, , https://catmaid.nemanode.org/?pid=130&zp=8550.0&yp=27124.2&xp=30950.7&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+SIB, SMB, 7
+SIBVL, SMBDL, , https://catmaid.nemanode.org/?pid=130&zp=17250.0&yp=31281.9&xp=27518.9&tool=tracingtool&sid0=100&s0=0,
+SIBDL, SMBVL, , https://catmaid.nemanode.org/?pid=130&zp=6500.0&yp=22089.3&xp=32902.4&tool=tracingtool&sid0=100&s0=0,
+SIBVL, SMBVL, , https://catmaid.nemanode.org/?pid=130&zp=20350.0&yp=29450.6&xp=29797.3&tool=tracingtool&sid0=100&s0=0,
+SIBDL, SMBVL, , https://catmaid.nemanode.org/?pid=130&zp=13900.0&yp=31610.6&xp=27828.9&tool=tracingtool&sid0=100&s0=0,
+SIBVR, SMBDR, , https://catmaid.nemanode.org/?pid=130&zp=7350.0&yp=15869.0&xp=17140.8&tool=tracingtool&sid0=100&s0=0,
+SIBDL, SMBDL, , https://catmaid.nemanode.org/?pid=130&zp=7350.0&yp=25051.3&xp=32211.4&tool=tracingtool&sid0=100&s0=0,
+SIBVR, SMBDR, , https://catmaid.nemanode.org/?pid=130&zp=16300.0&yp=31984.2&xp=26440.3&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
+SMD, SMD, 3
+SMDDL, SMDDR, , https://catmaid.nemanode.org/?pid=130&zp=5600.0&yp=13298.0&xp=25806.2&tool=tracingtool&sid0=100&s0=0,
+SMDVL, SMDVR, , https://catmaid.nemanode.org/?pid=130&zp=9400.0&yp=28295.1&xp=26376.2&tool=tracingtool&sid0=100&s0=0,
+SMDDR, SMDVL, , https://catmaid.nemanode.org/?pid=130&zp=12900.0&yp=28045.9&xp=25623.7&tool=tracingtool&sid0=100&s0=0,
+,,,,,,
